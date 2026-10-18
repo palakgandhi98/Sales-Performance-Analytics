@@ -1,1 +1,1001 @@
-
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,State,Category,Sub_Category,Product_Name,Quantity,Unit_Price,Sales,Cost,Profit,Customer_Segment
+ORD-00001,2023-04-15,CUST-0036,Sample Customer 36,West,Gujarat,Office Supplies,Printers,Printer Paper,3,460.81,1382.43,787.99,594.44,Home Office
+ORD-00002,2024-06-01,CUST-0060,Sample Customer 60,West,Maharashtra,Technology,Phones,Smartphone,1,11414.53,11414.53,8332.61,3081.92,Home Office
+ORD-00003,2023-08-14,CUST-0108,Sample Customer 108,West,Gujarat,Office Supplies,Printers,Printer Paper,6,529.14,3174.84,1809.66,1365.18,Corporate
+ORD-00004,2023-06-09,CUST-0072,Sample Customer 72,South,Karnataka,Technology,Accessories,Headphones,6,1952.59,11715.54,7029.32,4686.22,Consumer
+ORD-00005,2024-09-10,CUST-0089,Sample Customer 89,South,Karnataka,Technology,Phones,Smartphone,4,11426.31,45705.24,33364.83,12340.41,Corporate
+ORD-00006,2023-03-22,CUST-0097,Sample Customer 97,West,Maharashtra,Office Supplies,Stationery,Notebook,1,227.25,227.25,115.9,111.35,Home Office
+ORD-00007,2024-11-08,CUST-0012,Sample Customer 12,South,Tamil Nadu,Office Supplies,Stationery,Notebook,2,211.21,422.42,215.43,206.99,Consumer
+ORD-00008,2024-10-12,CUST-0117,Sample Customer 117,South,Karnataka,Technology,Accessories,Headphones,1,1927.11,1927.11,1156.27,770.84,Corporate
+ORD-00009,2024-11-30,CUST-0180,Sample Customer 180,North,Uttar Pradesh,Furniture,Chairs,Office Chair,2,6305.26,12610.52,8701.26,3909.26,Home Office
+ORD-00010,2024-01-24,CUST-0119,Sample Customer 119,West,Gujarat,Office Supplies,Stationery,Notebook,6,183.77,1102.62,562.34,540.28,Corporate
+ORD-00011,2024-02-15,CUST-0081,Sample Customer 81,North,Uttar Pradesh,Technology,Phones,Smartphone,2,14253.93,28507.86,20810.74,7697.12,Corporate
+ORD-00012,2024-05-26,CUST-0168,Sample Customer 168,West,Gujarat,Office Supplies,Stationery,Notebook,6,187.94,1127.64,575.1,552.54,Corporate
+ORD-00013,2024-07-05,CUST-0144,Sample Customer 144,East,West Bengal,Furniture,Chairs,Office Chair,2,5543.01,11086.02,7649.35,3436.67,Corporate
+ORD-00014,2024-06-05,CUST-0036,Sample Customer 36,East,Odisha,Furniture,Chairs,Office Chair,2,6894.04,13788.08,9513.78,4274.3,Corporate
+ORD-00015,2024-03-08,CUST-0175,Sample Customer 175,West,Gujarat,Technology,Phones,Smartphone,2,13496.0,26992.0,19704.16,7287.84,Home Office
+ORD-00016,2023-09-15,CUST-0136,Sample Customer 136,West,Maharashtra,Furniture,Tables,Desk,5,10338.38,51691.9,39285.84,12406.06,Home Office
+ORD-00017,2023-12-15,CUST-0165,Sample Customer 165,West,Gujarat,Office Supplies,Printers,Printer Paper,5,536.56,2682.8,1529.2,1153.6,Consumer
+ORD-00018,2024-05-27,CUST-0068,Sample Customer 68,South,Tamil Nadu,Technology,Accessories,Headphones,4,1701.1,6804.4,4082.64,2721.76,Consumer
+ORD-00019,2024-01-18,CUST-0040,Sample Customer 40,West,Maharashtra,Office Supplies,Printers,Printer Paper,5,515.31,2576.55,1468.63,1107.92,Consumer
+ORD-00020,2023-11-11,CUST-0093,Sample Customer 93,West,Maharashtra,Furniture,Tables,Desk,1,7951.16,7951.16,6042.88,1908.28,Consumer
+ORD-00021,2023-03-12,CUST-0125,Sample Customer 125,West,Gujarat,Office Supplies,Stationery,Notebook,1,174.26,174.26,88.87,85.39,Home Office
+ORD-00022,2023-09-29,CUST-0043,Sample Customer 43,North,Delhi,Office Supplies,Printers,Printer Paper,4,565.89,2263.56,1290.23,973.33,Home Office
+ORD-00023,2024-02-13,CUST-0080,Sample Customer 80,East,West Bengal,Office Supplies,Stationery,Notebook,6,210.34,1262.04,643.64,618.4,Home Office
+ORD-00024,2023-03-07,CUST-0058,Sample Customer 58,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,176.37,705.48,359.79,345.69,Corporate
+ORD-00025,2023-03-02,CUST-0162,Sample Customer 162,West,Gujarat,Office Supplies,Stationery,Notebook,2,169.58,339.16,172.97,166.19,Consumer
+ORD-00026,2024-11-16,CUST-0072,Sample Customer 72,West,Gujarat,Furniture,Chairs,Office Chair,1,6024.48,6024.48,4156.89,1867.59,Corporate
+ORD-00027,2024-04-29,CUST-0063,Sample Customer 63,North,Delhi,Office Supplies,Printers,Printer Paper,5,510.41,2552.05,1454.67,1097.38,Corporate
+ORD-00028,2024-02-25,CUST-0109,Sample Customer 109,North,Delhi,Technology,Phones,Smartphone,6,12730.12,76380.72,55757.93,20622.79,Corporate
+ORD-00029,2023-09-12,CUST-0028,Sample Customer 28,West,Gujarat,Technology,Phones,Smartphone,4,13888.96,55555.84,40555.76,15000.08,Consumer
+ORD-00030,2023-09-13,CUST-0119,Sample Customer 119,North,Uttar Pradesh,Technology,Accessories,Headphones,4,1809.19,7236.76,4342.06,2894.7,Consumer
+ORD-00031,2023-04-06,CUST-0004,Sample Customer 4,East,West Bengal,Technology,Phones,Smartphone,6,14946.05,89676.3,65463.7,24212.6,Consumer
+ORD-00032,2023-03-02,CUST-0103,Sample Customer 103,North,Uttar Pradesh,Furniture,Tables,Desk,4,8226.2,32904.8,25007.65,7897.15,Consumer
+ORD-00033,2023-10-20,CUST-0117,Sample Customer 117,East,West Bengal,Furniture,Tables,Desk,3,10150.47,30451.41,23143.07,7308.34,Corporate
+ORD-00034,2024-08-16,CUST-0015,Sample Customer 15,East,West Bengal,Technology,Accessories,Headphones,3,1829.71,5489.13,3293.48,2195.65,Home Office
+ORD-00035,2024-06-27,CUST-0129,Sample Customer 129,West,Maharashtra,Technology,Phones,Smartphone,1,13327.27,13327.27,9728.91,3598.36,Consumer
+ORD-00036,2023-08-29,CUST-0173,Sample Customer 173,West,Gujarat,Technology,Accessories,Headphones,1,2055.99,2055.99,1233.59,822.4,Corporate
+ORD-00037,2024-03-05,CUST-0021,Sample Customer 21,West,Gujarat,Office Supplies,Stationery,Notebook,5,171.52,857.6,437.38,420.22,Home Office
+ORD-00038,2023-09-29,CUST-0062,Sample Customer 62,South,Tamil Nadu,Technology,Accessories,Headphones,6,2128.65,12771.9,7663.14,5108.76,Corporate
+ORD-00039,2023-01-10,CUST-0019,Sample Customer 19,North,Uttar Pradesh,Furniture,Tables,Desk,3,10157.22,30471.66,23158.46,7313.2,Corporate
+ORD-00040,2023-12-24,CUST-0034,Sample Customer 34,West,Gujarat,Office Supplies,Stationery,Notebook,2,199.35,398.7,203.34,195.36,Consumer
+ORD-00041,2024-12-21,CUST-0140,Sample Customer 140,North,Uttar Pradesh,Furniture,Chairs,Office Chair,2,5887.75,11775.5,8125.09,3650.41,Corporate
+ORD-00042,2023-09-28,CUST-0035,Sample Customer 35,West,Maharashtra,Office Supplies,Printers,Printer Paper,1,564.71,564.71,321.88,242.83,Consumer
+ORD-00043,2023-07-28,CUST-0088,Sample Customer 88,West,Gujarat,Furniture,Chairs,Office Chair,3,6187.66,18562.98,12808.46,5754.52,Home Office
+ORD-00044,2023-10-11,CUST-0109,Sample Customer 109,South,Tamil Nadu,Furniture,Chairs,Office Chair,1,5265.26,5265.26,3633.03,1632.23,Consumer
+ORD-00045,2024-03-28,CUST-0042,Sample Customer 42,West,Maharashtra,Technology,Accessories,Headphones,6,2286.73,13720.38,8232.23,5488.15,Home Office
+ORD-00046,2023-06-02,CUST-0177,Sample Customer 177,East,West Bengal,Technology,Phones,Smartphone,1,14734.57,14734.57,10756.24,3978.33,Home Office
+ORD-00047,2023-02-12,CUST-0033,Sample Customer 33,West,Maharashtra,Office Supplies,Stationery,Notebook,5,177.99,889.95,453.87,436.08,Corporate
+ORD-00048,2023-04-16,CUST-0171,Sample Customer 171,South,Karnataka,Furniture,Chairs,Office Chair,2,6326.67,12653.34,8730.8,3922.54,Corporate
+ORD-00049,2024-02-27,CUST-0046,Sample Customer 46,East,West Bengal,Technology,Accessories,Headphones,2,2284.58,4569.16,2741.5,1827.66,Consumer
+ORD-00050,2023-10-01,CUST-0064,Sample Customer 64,North,Uttar Pradesh,Furniture,Tables,Desk,6,9981.86,59891.16,45517.28,14373.88,Consumer
+ORD-00051,2023-12-25,CUST-0118,Sample Customer 118,West,Maharashtra,Technology,Phones,Smartphone,4,11916.57,47666.28,34796.38,12869.9,Corporate
+ORD-00052,2023-10-13,CUST-0085,Sample Customer 85,North,Delhi,Technology,Phones,Smartphone,6,11802.3,70813.8,51694.07,19119.73,Consumer
+ORD-00053,2023-12-06,CUST-0138,Sample Customer 138,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,5,483.98,2419.9,1379.34,1040.56,Consumer
+ORD-00054,2023-02-09,CUST-0068,Sample Customer 68,West,Maharashtra,Technology,Accessories,Headphones,5,2276.38,11381.9,6829.14,4552.76,Consumer
+ORD-00055,2023-04-29,CUST-0131,Sample Customer 131,East,Odisha,Office Supplies,Printers,Printer Paper,3,489.48,1468.44,837.01,631.43,Corporate
+ORD-00056,2024-07-05,CUST-0134,Sample Customer 134,North,Uttar Pradesh,Technology,Phones,Smartphone,6,12749.64,76497.84,55843.42,20654.42,Home Office
+ORD-00057,2024-09-30,CUST-0085,Sample Customer 85,North,Uttar Pradesh,Furniture,Tables,Desk,1,10210.83,10210.83,7760.23,2450.6,Corporate
+ORD-00058,2024-02-17,CUST-0084,Sample Customer 84,West,Maharashtra,Office Supplies,Stationery,Notebook,3,208.96,626.88,319.71,307.17,Home Office
+ORD-00059,2024-11-24,CUST-0098,Sample Customer 98,South,Karnataka,Technology,Accessories,Headphones,4,2097.91,8391.64,5034.98,3356.66,Home Office
+ORD-00060,2023-10-21,CUST-0078,Sample Customer 78,North,Uttar Pradesh,Furniture,Tables,Desk,5,9899.96,49499.8,37619.85,11879.95,Consumer
+ORD-00061,2024-06-07,CUST-0055,Sample Customer 55,East,Odisha,Furniture,Tables,Desk,4,8842.85,35371.4,26882.26,8489.14,Corporate
+ORD-00062,2023-12-10,CUST-0159,Sample Customer 159,North,Delhi,Furniture,Chairs,Office Chair,5,6293.89,31469.45,21713.92,9755.53,Consumer
+ORD-00063,2023-09-08,CUST-0012,Sample Customer 12,North,Uttar Pradesh,Technology,Accessories,Headphones,2,1787.52,3575.04,2145.02,1430.02,Corporate
+ORD-00064,2024-01-29,CUST-0179,Sample Customer 179,West,Maharashtra,Furniture,Tables,Desk,6,9203.29,55219.74,41967.0,13252.74,Corporate
+ORD-00065,2024-03-11,CUST-0028,Sample Customer 28,East,West Bengal,Technology,Accessories,Headphones,6,2111.52,12669.12,7601.47,5067.65,Consumer
+ORD-00066,2024-04-12,CUST-0032,Sample Customer 32,North,Uttar Pradesh,Technology,Phones,Smartphone,5,12020.95,60104.75,43876.47,16228.28,Consumer
+ORD-00067,2024-03-12,CUST-0130,Sample Customer 130,East,Odisha,Furniture,Tables,Desk,5,9849.42,49247.1,37427.8,11819.3,Home Office
+ORD-00068,2024-10-14,CUST-0064,Sample Customer 64,East,West Bengal,Office Supplies,Printers,Printer Paper,4,491.53,1966.12,1120.69,845.43,Corporate
+ORD-00069,2023-08-29,CUST-0074,Sample Customer 74,East,West Bengal,Furniture,Chairs,Office Chair,4,5238.6,20954.4,14458.54,6495.86,Corporate
+ORD-00070,2024-01-28,CUST-0060,Sample Customer 60,South,Tamil Nadu,Office Supplies,Stationery,Notebook,1,177.41,177.41,90.48,86.93,Home Office
+ORD-00071,2024-04-22,CUST-0139,Sample Customer 139,North,Delhi,Technology,Phones,Smartphone,4,12638.67,50554.68,36904.92,13649.76,Corporate
+ORD-00072,2024-12-13,CUST-0150,Sample Customer 150,West,Gujarat,Furniture,Tables,Desk,4,10091.94,40367.76,30679.5,9688.26,Consumer
+ORD-00073,2024-03-05,CUST-0100,Sample Customer 100,East,Odisha,Technology,Phones,Smartphone,3,12213.65,36640.95,26747.89,9893.06,Home Office
+ORD-00074,2024-02-03,CUST-0008,Sample Customer 8,North,Uttar Pradesh,Technology,Accessories,Headphones,3,1960.52,5881.56,3528.94,2352.62,Corporate
+ORD-00075,2023-01-28,CUST-0137,Sample Customer 137,East,West Bengal,Furniture,Tables,Desk,2,10296.81,20593.62,15651.15,4942.47,Corporate
+ORD-00076,2023-07-06,CUST-0119,Sample Customer 119,West,Gujarat,Office Supplies,Printers,Printer Paper,4,444.46,1777.84,1013.37,764.47,Consumer
+ORD-00077,2024-01-24,CUST-0087,Sample Customer 87,South,Tamil Nadu,Furniture,Chairs,Office Chair,2,5917.47,11834.94,8166.11,3668.83,Corporate
+ORD-00078,2023-02-23,CUST-0139,Sample Customer 139,East,Odisha,Technology,Phones,Smartphone,4,11124.74,44498.96,32484.24,12014.72,Corporate
+ORD-00079,2023-07-24,CUST-0064,Sample Customer 64,North,Delhi,Office Supplies,Printers,Printer Paper,1,537.06,537.06,306.12,230.94,Consumer
+ORD-00080,2023-08-12,CUST-0145,Sample Customer 145,North,Delhi,Technology,Accessories,Headphones,4,2100.62,8402.48,5041.49,3360.99,Corporate
+ORD-00081,2023-06-17,CUST-0030,Sample Customer 30,South,Tamil Nadu,Technology,Accessories,Headphones,5,2063.32,10316.6,6189.96,4126.64,Corporate
+ORD-00082,2024-02-11,CUST-0097,Sample Customer 97,West,Gujarat,Furniture,Chairs,Office Chair,5,6318.17,31590.85,21797.69,9793.16,Home Office
+ORD-00083,2023-04-15,CUST-0063,Sample Customer 63,North,Delhi,Office Supplies,Stationery,Notebook,6,218.74,1312.44,669.34,643.1,Home Office
+ORD-00084,2024-11-08,CUST-0110,Sample Customer 110,South,Karnataka,Office Supplies,Stationery,Notebook,1,189.88,189.88,96.84,93.04,Corporate
+ORD-00085,2024-03-19,CUST-0028,Sample Customer 28,West,Maharashtra,Technology,Phones,Smartphone,4,14255.99,57023.96,41627.49,15396.47,Corporate
+ORD-00086,2023-10-04,CUST-0167,Sample Customer 167,East,West Bengal,Furniture,Tables,Desk,2,9630.18,19260.36,14637.87,4622.49,Home Office
+ORD-00087,2023-09-09,CUST-0083,Sample Customer 83,East,Odisha,Furniture,Tables,Desk,6,9248.65,55491.9,42173.84,13318.06,Consumer
+ORD-00088,2024-01-24,CUST-0172,Sample Customer 172,South,Tamil Nadu,Technology,Accessories,Headphones,4,2040.89,8163.56,4898.14,3265.42,Corporate
+ORD-00089,2023-09-22,CUST-0091,Sample Customer 91,West,Maharashtra,Furniture,Chairs,Office Chair,2,5976.59,11953.18,8247.69,3705.49,Corporate
+ORD-00090,2023-03-29,CUST-0049,Sample Customer 49,South,Tamil Nadu,Office Supplies,Stationery,Notebook,1,199.99,199.99,101.99,98.0,Consumer
+ORD-00091,2024-12-29,CUST-0166,Sample Customer 166,East,Odisha,Office Supplies,Stationery,Notebook,2,210.38,420.76,214.59,206.17,Corporate
+ORD-00092,2023-09-07,CUST-0178,Sample Customer 178,East,West Bengal,Technology,Phones,Smartphone,3,11913.31,35739.93,26090.15,9649.78,Corporate
+ORD-00093,2023-12-05,CUST-0141,Sample Customer 141,South,Tamil Nadu,Office Supplies,Stationery,Notebook,5,189.67,948.35,483.66,464.69,Corporate
+ORD-00094,2023-11-20,CUST-0050,Sample Customer 50,East,Odisha,Furniture,Chairs,Office Chair,3,5514.05,16542.15,11414.08,5128.07,Consumer
+ORD-00095,2024-06-21,CUST-0151,Sample Customer 151,North,Delhi,Technology,Accessories,Headphones,6,1989.52,11937.12,7162.27,4774.85,Home Office
+ORD-00096,2023-11-06,CUST-0046,Sample Customer 46,South,Karnataka,Technology,Accessories,Headphones,3,1835.57,5506.71,3304.03,2202.68,Consumer
+ORD-00097,2023-05-10,CUST-0179,Sample Customer 179,North,Uttar Pradesh,Technology,Phones,Smartphone,1,13207.08,13207.08,9641.17,3565.91,Home Office
+ORD-00098,2024-03-27,CUST-0123,Sample Customer 123,East,West Bengal,Technology,Phones,Smartphone,5,12157.99,60789.95,44376.66,16413.29,Corporate
+ORD-00099,2024-02-15,CUST-0017,Sample Customer 17,North,Delhi,Furniture,Chairs,Office Chair,4,5304.47,21217.88,14640.34,6577.54,Corporate
+ORD-00100,2023-03-29,CUST-0078,Sample Customer 78,West,Gujarat,Technology,Accessories,Headphones,2,2185.59,4371.18,2622.71,1748.47,Consumer
+ORD-00101,2024-06-19,CUST-0058,Sample Customer 58,West,Maharashtra,Office Supplies,Stationery,Notebook,5,216.36,1081.8,551.72,530.08,Corporate
+ORD-00102,2024-08-05,CUST-0079,Sample Customer 79,East,Odisha,Furniture,Chairs,Office Chair,5,6880.91,34404.55,23739.14,10665.41,Home Office
+ORD-00103,2023-03-25,CUST-0170,Sample Customer 170,West,Gujarat,Technology,Accessories,Headphones,6,1825.7,10954.2,6572.52,4381.68,Consumer
+ORD-00104,2024-04-06,CUST-0105,Sample Customer 105,North,Delhi,Office Supplies,Stationery,Notebook,1,178.49,178.49,91.03,87.46,Home Office
+ORD-00105,2024-12-20,CUST-0073,Sample Customer 73,East,Odisha,Technology,Phones,Smartphone,2,12172.67,24345.34,17772.1,6573.24,Corporate
+ORD-00106,2024-03-11,CUST-0051,Sample Customer 51,West,Gujarat,Furniture,Chairs,Office Chair,6,6160.59,36963.54,25504.84,11458.7,Consumer
+ORD-00107,2023-11-11,CUST-0043,Sample Customer 43,North,Delhi,Furniture,Chairs,Office Chair,2,5227.67,10455.34,7214.18,3241.16,Home Office
+ORD-00108,2024-02-17,CUST-0180,Sample Customer 180,South,Tamil Nadu,Technology,Phones,Smartphone,4,13734.79,54939.16,40105.59,14833.57,Corporate
+ORD-00109,2023-11-27,CUST-0111,Sample Customer 111,East,Odisha,Technology,Phones,Smartphone,5,11204.6,56023.0,40896.79,15126.21,Home Office
+ORD-00110,2024-08-24,CUST-0148,Sample Customer 148,South,Karnataka,Technology,Phones,Smartphone,2,14800.31,29600.62,21608.45,7992.17,Consumer
+ORD-00111,2023-10-12,CUST-0114,Sample Customer 114,South,Karnataka,Technology,Accessories,Headphones,4,2010.37,8041.48,4824.89,3216.59,Consumer
+ORD-00112,2023-11-25,CUST-0086,Sample Customer 86,East,Odisha,Technology,Phones,Smartphone,4,12406.09,49624.36,36225.78,13398.58,Home Office
+ORD-00113,2024-11-09,CUST-0074,Sample Customer 74,West,Gujarat,Furniture,Chairs,Office Chair,4,6347.55,25390.2,17519.24,7870.96,Corporate
+ORD-00114,2024-02-18,CUST-0030,Sample Customer 30,West,Maharashtra,Technology,Phones,Smartphone,3,12033.43,36100.29,26353.21,9747.08,Home Office
+ORD-00115,2024-09-29,CUST-0093,Sample Customer 93,West,Maharashtra,Furniture,Tables,Desk,1,8155.57,8155.57,6198.23,1957.34,Corporate
+ORD-00116,2024-03-24,CUST-0074,Sample Customer 74,East,West Bengal,Technology,Accessories,Headphones,3,2028.52,6085.56,3651.34,2434.22,Home Office
+ORD-00117,2024-12-27,CUST-0062,Sample Customer 62,East,West Bengal,Technology,Phones,Smartphone,6,13423.57,80541.42,58795.24,21746.18,Consumer
+ORD-00118,2024-04-17,CUST-0030,Sample Customer 30,South,Karnataka,Office Supplies,Stationery,Notebook,4,174.71,698.84,356.41,342.43,Consumer
+ORD-00119,2024-03-01,CUST-0070,Sample Customer 70,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,3,500.33,1500.99,855.56,645.43,Corporate
+ORD-00120,2024-09-05,CUST-0049,Sample Customer 49,East,West Bengal,Furniture,Tables,Desk,5,8039.64,40198.2,30550.63,9647.57,Home Office
+ORD-00121,2023-10-01,CUST-0130,Sample Customer 130,North,Delhi,Furniture,Chairs,Office Chair,4,5710.82,22843.28,15761.86,7081.42,Consumer
+ORD-00122,2023-06-02,CUST-0126,Sample Customer 126,South,Tamil Nadu,Office Supplies,Stationery,Notebook,5,228.78,1143.9,583.39,560.51,Corporate
+ORD-00123,2024-04-11,CUST-0097,Sample Customer 97,East,Odisha,Furniture,Chairs,Office Chair,5,6472.09,32360.45,22328.71,10031.74,Corporate
+ORD-00124,2023-02-14,CUST-0106,Sample Customer 106,North,Delhi,Office Supplies,Stationery,Notebook,4,183.09,732.36,373.5,358.86,Corporate
+ORD-00125,2023-06-05,CUST-0167,Sample Customer 167,East,Odisha,Furniture,Tables,Desk,6,9788.38,58730.28,44635.01,14095.27,Corporate
+ORD-00126,2024-03-26,CUST-0026,Sample Customer 26,West,Gujarat,Office Supplies,Stationery,Notebook,5,188.97,944.85,481.87,462.98,Consumer
+ORD-00127,2023-06-08,CUST-0168,Sample Customer 168,East,West Bengal,Office Supplies,Printers,Printer Paper,2,485.52,971.04,553.49,417.55,Consumer
+ORD-00128,2023-03-24,CUST-0167,Sample Customer 167,East,Odisha,Furniture,Chairs,Office Chair,5,6345.81,31729.05,21893.04,9836.01,Corporate
+ORD-00129,2024-07-08,CUST-0125,Sample Customer 125,East,Odisha,Office Supplies,Printers,Printer Paper,6,557.0,3342.0,1904.94,1437.06,Consumer
+ORD-00130,2023-04-03,CUST-0059,Sample Customer 59,West,Gujarat,Office Supplies,Printers,Printer Paper,6,562.01,3372.06,1922.07,1449.99,Corporate
+ORD-00131,2023-02-17,CUST-0008,Sample Customer 8,West,Gujarat,Furniture,Tables,Desk,2,9522.74,19045.48,14474.56,4570.92,Corporate
+ORD-00132,2024-06-27,CUST-0063,Sample Customer 63,West,Maharashtra,Furniture,Chairs,Office Chair,3,5874.26,17622.78,12159.72,5463.06,Corporate
+ORD-00133,2024-09-26,CUST-0098,Sample Customer 98,North,Delhi,Technology,Accessories,Headphones,1,2064.66,2064.66,1238.8,825.86,Home Office
+ORD-00134,2023-09-18,CUST-0164,Sample Customer 164,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,2,183.01,366.02,186.67,179.35,Corporate
+ORD-00135,2023-03-17,CUST-0041,Sample Customer 41,South,Karnataka,Furniture,Tables,Desk,3,9478.5,28435.5,21610.98,6824.52,Corporate
+ORD-00136,2023-11-06,CUST-0117,Sample Customer 117,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,4,527.49,2109.96,1202.68,907.28,Consumer
+ORD-00137,2024-08-11,CUST-0092,Sample Customer 92,East,Odisha,Technology,Phones,Smartphone,2,12536.36,25072.72,18303.09,6769.63,Corporate
+ORD-00138,2024-12-03,CUST-0145,Sample Customer 145,South,Karnataka,Office Supplies,Printers,Printer Paper,4,465.24,1860.96,1060.75,800.21,Home Office
+ORD-00139,2023-08-13,CUST-0091,Sample Customer 91,West,Maharashtra,Furniture,Chairs,Office Chair,2,6191.68,12383.36,8544.52,3838.84,Home Office
+ORD-00140,2023-05-21,CUST-0175,Sample Customer 175,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,6,539.04,3234.24,1843.52,1390.72,Home Office
+ORD-00141,2023-05-15,CUST-0094,Sample Customer 94,West,Gujarat,Furniture,Chairs,Office Chair,4,5159.2,20636.8,14239.39,6397.41,Consumer
+ORD-00142,2024-07-06,CUST-0034,Sample Customer 34,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,4,450.44,1801.76,1027.0,774.76,Corporate
+ORD-00143,2023-12-13,CUST-0076,Sample Customer 76,South,Karnataka,Furniture,Chairs,Office Chair,4,6840.15,27360.6,18878.81,8481.79,Consumer
+ORD-00144,2024-02-11,CUST-0173,Sample Customer 173,East,West Bengal,Technology,Accessories,Headphones,2,2214.98,4429.96,2657.98,1771.98,Home Office
+ORD-00145,2024-04-10,CUST-0032,Sample Customer 32,South,Karnataka,Furniture,Tables,Desk,1,8363.11,8363.11,6355.96,2007.15,Corporate
+ORD-00146,2024-04-27,CUST-0060,Sample Customer 60,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,3,440.37,1321.11,753.03,568.08,Consumer
+ORD-00147,2024-12-18,CUST-0119,Sample Customer 119,South,Karnataka,Office Supplies,Printers,Printer Paper,1,519.27,519.27,295.98,223.29,Corporate
+ORD-00148,2024-05-19,CUST-0078,Sample Customer 78,East,West Bengal,Technology,Accessories,Headphones,1,2266.62,2266.62,1359.97,906.65,Consumer
+ORD-00149,2024-11-17,CUST-0095,Sample Customer 95,West,Gujarat,Office Supplies,Stationery,Notebook,2,192.35,384.7,196.2,188.5,Home Office
+ORD-00150,2024-09-22,CUST-0126,Sample Customer 126,East,West Bengal,Furniture,Tables,Desk,6,7916.48,47498.88,36099.15,11399.73,Corporate
+ORD-00151,2023-08-30,CUST-0114,Sample Customer 114,South,Karnataka,Office Supplies,Printers,Printer Paper,3,456.68,1370.04,780.92,589.12,Corporate
+ORD-00152,2023-10-10,CUST-0102,Sample Customer 102,West,Maharashtra,Office Supplies,Stationery,Notebook,6,190.56,1143.36,583.11,560.25,Consumer
+ORD-00153,2024-09-03,CUST-0164,Sample Customer 164,West,Maharashtra,Technology,Phones,Smartphone,6,11876.3,71257.8,52018.19,19239.61,Consumer
+ORD-00154,2023-03-12,CUST-0053,Sample Customer 53,West,Maharashtra,Technology,Accessories,Headphones,2,2171.1,4342.2,2605.32,1736.88,Home Office
+ORD-00155,2023-01-03,CUST-0153,Sample Customer 153,North,Delhi,Technology,Accessories,Headphones,3,2163.54,6490.62,3894.37,2596.25,Corporate
+ORD-00156,2024-11-07,CUST-0029,Sample Customer 29,North,Delhi,Office Supplies,Stationery,Notebook,3,216.82,650.46,331.73,318.73,Consumer
+ORD-00157,2023-06-28,CUST-0005,Sample Customer 5,North,Delhi,Furniture,Chairs,Office Chair,2,6158.91,12317.82,8499.3,3818.52,Corporate
+ORD-00158,2024-05-02,CUST-0017,Sample Customer 17,West,Gujarat,Office Supplies,Printers,Printer Paper,4,502.91,2011.64,1146.63,865.01,Corporate
+ORD-00159,2023-02-14,CUST-0158,Sample Customer 158,South,Karnataka,Furniture,Tables,Desk,5,8247.27,41236.35,31339.63,9896.72,Home Office
+ORD-00160,2024-02-16,CUST-0123,Sample Customer 123,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,1,433.26,433.26,246.96,186.3,Corporate
+ORD-00161,2023-11-26,CUST-0021,Sample Customer 21,West,Maharashtra,Office Supplies,Printers,Printer Paper,4,435.15,1740.6,992.14,748.46,Home Office
+ORD-00162,2024-07-15,CUST-0150,Sample Customer 150,North,Delhi,Technology,Accessories,Headphones,3,2073.55,6220.65,3732.39,2488.26,Home Office
+ORD-00163,2024-09-11,CUST-0130,Sample Customer 130,South,Tamil Nadu,Office Supplies,Stationery,Notebook,5,186.76,933.8,476.24,457.56,Corporate
+ORD-00164,2023-08-09,CUST-0142,Sample Customer 142,West,Gujarat,Office Supplies,Printers,Printer Paper,6,555.54,3333.24,1899.95,1433.29,Corporate
+ORD-00165,2024-03-01,CUST-0103,Sample Customer 103,East,West Bengal,Furniture,Tables,Desk,3,9882.93,29648.79,22533.08,7115.71,Home Office
+ORD-00166,2023-06-06,CUST-0096,Sample Customer 96,West,Maharashtra,Furniture,Tables,Desk,3,9444.74,28334.22,21534.01,6800.21,Home Office
+ORD-00167,2024-01-17,CUST-0025,Sample Customer 25,East,West Bengal,Technology,Phones,Smartphone,1,11412.72,11412.72,8331.29,3081.43,Consumer
+ORD-00168,2024-03-09,CUST-0171,Sample Customer 171,West,Maharashtra,Office Supplies,Printers,Printer Paper,1,485.65,485.65,276.82,208.83,Home Office
+ORD-00169,2024-06-03,CUST-0148,Sample Customer 148,West,Maharashtra,Office Supplies,Stationery,Notebook,3,190.14,570.42,290.91,279.51,Consumer
+ORD-00170,2024-01-12,CUST-0143,Sample Customer 143,North,Uttar Pradesh,Technology,Accessories,Headphones,1,1909.11,1909.11,1145.47,763.64,Consumer
+ORD-00171,2024-09-20,CUST-0160,Sample Customer 160,South,Karnataka,Furniture,Tables,Desk,5,10280.13,51400.65,39064.49,12336.16,Home Office
+ORD-00172,2023-12-14,CUST-0080,Sample Customer 80,West,Maharashtra,Technology,Phones,Smartphone,2,12114.82,24229.64,17687.64,6542.0,Corporate
+ORD-00173,2023-05-26,CUST-0018,Sample Customer 18,West,Gujarat,Technology,Accessories,Headphones,5,2093.36,10466.8,6280.08,4186.72,Home Office
+ORD-00174,2024-04-09,CUST-0108,Sample Customer 108,West,Gujarat,Office Supplies,Printers,Printer Paper,5,456.36,2281.8,1300.63,981.17,Corporate
+ORD-00175,2024-09-02,CUST-0146,Sample Customer 146,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,5682.94,34097.64,23527.37,10570.27,Consumer
+ORD-00176,2023-10-06,CUST-0021,Sample Customer 21,West,Gujarat,Technology,Accessories,Headphones,5,1728.99,8644.95,5186.97,3457.98,Corporate
+ORD-00177,2024-06-08,CUST-0056,Sample Customer 56,East,Odisha,Office Supplies,Stationery,Notebook,4,193.88,775.52,395.52,380.0,Consumer
+ORD-00178,2024-05-13,CUST-0152,Sample Customer 152,South,Tamil Nadu,Technology,Phones,Smartphone,3,13694.0,41082.0,29989.86,11092.14,Home Office
+ORD-00179,2023-01-08,CUST-0015,Sample Customer 15,South,Karnataka,Technology,Accessories,Headphones,4,2289.52,9158.08,5494.85,3663.23,Consumer
+ORD-00180,2023-01-08,CUST-0031,Sample Customer 31,South,Karnataka,Technology,Accessories,Headphones,3,1872.73,5618.19,3370.91,2247.28,Corporate
+ORD-00181,2024-05-27,CUST-0059,Sample Customer 59,East,West Bengal,Technology,Accessories,Headphones,4,2018.54,8074.16,4844.5,3229.66,Home Office
+ORD-00182,2024-04-15,CUST-0005,Sample Customer 5,South,Karnataka,Furniture,Tables,Desk,6,7763.35,46580.1,35400.88,11179.22,Consumer
+ORD-00183,2023-10-24,CUST-0107,Sample Customer 107,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,211.51,846.04,431.48,414.56,Consumer
+ORD-00184,2024-04-16,CUST-0159,Sample Customer 159,East,West Bengal,Furniture,Chairs,Office Chair,2,6541.29,13082.58,9026.98,4055.6,Home Office
+ORD-00185,2024-02-15,CUST-0151,Sample Customer 151,South,Karnataka,Furniture,Tables,Desk,1,8306.03,8306.03,6312.58,1993.45,Home Office
+ORD-00186,2023-06-22,CUST-0086,Sample Customer 86,West,Maharashtra,Furniture,Chairs,Office Chair,6,5710.17,34261.02,23640.1,10620.92,Consumer
+ORD-00187,2023-06-01,CUST-0166,Sample Customer 166,West,Gujarat,Furniture,Chairs,Office Chair,3,6408.21,19224.63,13264.99,5959.64,Consumer
+ORD-00188,2024-11-02,CUST-0040,Sample Customer 40,West,Gujarat,Furniture,Chairs,Office Chair,2,5411.4,10822.8,7467.73,3355.07,Consumer
+ORD-00189,2024-11-28,CUST-0115,Sample Customer 115,North,Uttar Pradesh,Furniture,Tables,Desk,5,9700.59,48502.95,36862.24,11640.71,Home Office
+ORD-00190,2024-10-08,CUST-0114,Sample Customer 114,South,Tamil Nadu,Technology,Accessories,Headphones,4,1740.1,6960.4,4176.24,2784.16,Corporate
+ORD-00191,2024-04-07,CUST-0119,Sample Customer 119,South,Karnataka,Furniture,Chairs,Office Chair,5,5232.67,26163.35,18052.71,8110.64,Consumer
+ORD-00192,2024-09-21,CUST-0024,Sample Customer 24,West,Maharashtra,Furniture,Chairs,Office Chair,1,6259.36,6259.36,4318.96,1940.4,Home Office
+ORD-00193,2024-04-05,CUST-0011,Sample Customer 11,East,Odisha,Office Supplies,Stationery,Notebook,5,226.12,1130.6,576.61,553.99,Home Office
+ORD-00194,2024-04-06,CUST-0016,Sample Customer 16,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,4,199.08,796.32,406.12,390.2,Consumer
+ORD-00195,2024-12-25,CUST-0064,Sample Customer 64,South,Karnataka,Office Supplies,Stationery,Notebook,6,179.45,1076.7,549.12,527.58,Corporate
+ORD-00196,2024-02-23,CUST-0100,Sample Customer 100,East,West Bengal,Furniture,Chairs,Office Chair,3,6751.16,20253.48,13974.9,6278.58,Corporate
+ORD-00197,2024-01-31,CUST-0174,Sample Customer 174,West,Maharashtra,Technology,Phones,Smartphone,3,11417.69,34253.07,25004.74,9248.33,Corporate
+ORD-00198,2023-12-25,CUST-0037,Sample Customer 37,South,Karnataka,Furniture,Chairs,Office Chair,1,6147.91,6147.91,4242.06,1905.85,Corporate
+ORD-00199,2024-07-26,CUST-0080,Sample Customer 80,East,West Bengal,Office Supplies,Stationery,Notebook,6,225.15,1350.9,688.96,661.94,Corporate
+ORD-00200,2024-06-23,CUST-0176,Sample Customer 176,South,Karnataka,Office Supplies,Printers,Printer Paper,6,548.25,3289.5,1875.01,1414.49,Consumer
+ORD-00201,2023-12-16,CUST-0055,Sample Customer 55,East,Odisha,Technology,Phones,Smartphone,3,12253.64,36760.92,26835.47,9925.45,Corporate
+ORD-00202,2024-06-03,CUST-0026,Sample Customer 26,North,Delhi,Technology,Accessories,Headphones,2,1745.43,3490.86,2094.52,1396.34,Home Office
+ORD-00203,2023-06-16,CUST-0040,Sample Customer 40,West,Maharashtra,Office Supplies,Stationery,Notebook,2,204.81,409.62,208.91,200.71,Consumer
+ORD-00204,2024-03-30,CUST-0061,Sample Customer 61,North,Uttar Pradesh,Technology,Phones,Smartphone,4,12469.81,49879.24,36411.85,13467.39,Home Office
+ORD-00205,2023-07-18,CUST-0121,Sample Customer 121,South,Tamil Nadu,Technology,Accessories,Headphones,5,1842.58,9212.9,5527.74,3685.16,Corporate
+ORD-00206,2023-06-15,CUST-0108,Sample Customer 108,East,Odisha,Furniture,Chairs,Office Chair,4,6004.23,24016.92,16571.67,7445.25,Consumer
+ORD-00207,2024-07-21,CUST-0096,Sample Customer 96,North,Uttar Pradesh,Technology,Phones,Smartphone,6,12923.31,77539.86,56604.1,20935.76,Consumer
+ORD-00208,2023-05-31,CUST-0132,Sample Customer 132,West,Maharashtra,Technology,Phones,Smartphone,2,12112.95,24225.9,17684.91,6540.99,Corporate
+ORD-00209,2023-02-24,CUST-0107,Sample Customer 107,West,Gujarat,Furniture,Tables,Desk,3,10161.15,30483.45,23167.42,7316.03,Corporate
+ORD-00210,2023-11-23,CUST-0008,Sample Customer 8,South,Karnataka,Furniture,Tables,Desk,1,8661.3,8661.3,6582.59,2078.71,Consumer
+ORD-00211,2024-12-13,CUST-0121,Sample Customer 121,South,Karnataka,Technology,Accessories,Headphones,1,1871.19,1871.19,1122.71,748.48,Consumer
+ORD-00212,2023-09-20,CUST-0005,Sample Customer 5,East,Odisha,Office Supplies,Stationery,Notebook,1,223.23,223.23,113.85,109.38,Consumer
+ORD-00213,2023-02-18,CUST-0032,Sample Customer 32,North,Uttar Pradesh,Technology,Phones,Smartphone,3,11975.88,35927.64,26227.18,9700.46,Consumer
+ORD-00214,2024-09-03,CUST-0128,Sample Customer 128,East,Odisha,Technology,Phones,Smartphone,1,14311.98,14311.98,10447.75,3864.23,Home Office
+ORD-00215,2024-09-21,CUST-0001,Sample Customer 1,West,Gujarat,Office Supplies,Printers,Printer Paper,2,467.75,935.5,533.23,402.27,Corporate
+ORD-00216,2024-01-05,CUST-0135,Sample Customer 135,North,Uttar Pradesh,Technology,Accessories,Headphones,6,2099.88,12599.28,7559.57,5039.71,Consumer
+ORD-00217,2023-09-17,CUST-0096,Sample Customer 96,West,Maharashtra,Furniture,Tables,Desk,1,9365.27,9365.27,7117.61,2247.66,Home Office
+ORD-00218,2024-10-05,CUST-0169,Sample Customer 169,West,Maharashtra,Technology,Phones,Smartphone,3,11989.47,35968.41,26256.94,9711.47,Consumer
+ORD-00219,2023-06-29,CUST-0165,Sample Customer 165,South,Karnataka,Technology,Phones,Smartphone,3,13178.44,39535.32,28860.78,10674.54,Home Office
+ORD-00220,2024-04-13,CUST-0017,Sample Customer 17,East,Odisha,Office Supplies,Printers,Printer Paper,2,545.63,1091.26,622.02,469.24,Consumer
+ORD-00221,2023-11-14,CUST-0081,Sample Customer 81,South,Karnataka,Technology,Phones,Smartphone,2,14503.47,29006.94,21175.07,7831.87,Home Office
+ORD-00222,2023-10-20,CUST-0049,Sample Customer 49,East,Odisha,Furniture,Chairs,Office Chair,1,6454.85,6454.85,4453.85,2001.0,Corporate
+ORD-00223,2024-02-14,CUST-0112,Sample Customer 112,West,Maharashtra,Furniture,Chairs,Office Chair,1,6537.73,6537.73,4511.03,2026.7,Home Office
+ORD-00224,2024-01-12,CUST-0128,Sample Customer 128,East,Odisha,Furniture,Chairs,Office Chair,2,5992.17,11984.34,8269.19,3715.15,Home Office
+ORD-00225,2023-07-04,CUST-0155,Sample Customer 155,South,Karnataka,Office Supplies,Printers,Printer Paper,4,435.97,1743.88,994.01,749.87,Home Office
+ORD-00226,2023-11-10,CUST-0076,Sample Customer 76,South,Tamil Nadu,Technology,Phones,Smartphone,1,12327.94,12327.94,8999.4,3328.54,Corporate
+ORD-00227,2023-12-28,CUST-0011,Sample Customer 11,East,West Bengal,Office Supplies,Printers,Printer Paper,4,476.78,1907.12,1087.06,820.06,Home Office
+ORD-00228,2024-02-20,CUST-0164,Sample Customer 164,East,Odisha,Office Supplies,Printers,Printer Paper,1,435.38,435.38,248.17,187.21,Corporate
+ORD-00229,2023-02-05,CUST-0113,Sample Customer 113,North,Delhi,Technology,Accessories,Headphones,5,2105.8,10529.0,6317.4,4211.6,Consumer
+ORD-00230,2023-02-03,CUST-0146,Sample Customer 146,West,Gujarat,Office Supplies,Printers,Printer Paper,3,478.36,1435.08,818.0,617.08,Home Office
+ORD-00231,2024-08-10,CUST-0020,Sample Customer 20,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,5898.11,17694.33,12209.09,5485.24,Consumer
+ORD-00232,2023-01-27,CUST-0030,Sample Customer 30,South,Tamil Nadu,Furniture,Chairs,Office Chair,6,5600.71,33604.26,23186.94,10417.32,Home Office
+ORD-00233,2023-09-26,CUST-0031,Sample Customer 31,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,4,223.69,894.76,456.33,438.43,Corporate
+ORD-00234,2023-07-24,CUST-0126,Sample Customer 126,East,West Bengal,Office Supplies,Stationery,Notebook,3,210.58,631.74,322.19,309.55,Consumer
+ORD-00235,2023-03-31,CUST-0114,Sample Customer 114,North,Delhi,Furniture,Tables,Desk,2,10075.31,20150.62,15314.47,4836.15,Home Office
+ORD-00236,2023-11-04,CUST-0075,Sample Customer 75,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,1,506.48,506.48,288.69,217.79,Consumer
+ORD-00237,2023-05-23,CUST-0052,Sample Customer 52,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,2,176.4,352.8,179.93,172.87,Consumer
+ORD-00238,2024-07-18,CUST-0120,Sample Customer 120,East,West Bengal,Furniture,Chairs,Office Chair,5,6129.08,30645.4,21145.33,9500.07,Consumer
+ORD-00239,2024-06-22,CUST-0123,Sample Customer 123,West,Gujarat,Furniture,Chairs,Office Chair,4,6898.12,27592.48,19038.81,8553.67,Corporate
+ORD-00240,2024-04-22,CUST-0116,Sample Customer 116,East,West Bengal,Technology,Accessories,Headphones,3,2084.36,6253.08,3751.85,2501.23,Home Office
+ORD-00241,2024-03-19,CUST-0034,Sample Customer 34,South,Karnataka,Office Supplies,Stationery,Notebook,6,204.24,1225.44,624.97,600.47,Home Office
+ORD-00242,2023-11-27,CUST-0042,Sample Customer 42,West,Gujarat,Office Supplies,Stationery,Notebook,2,187.31,374.62,191.06,183.56,Home Office
+ORD-00243,2023-07-21,CUST-0065,Sample Customer 65,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,3,219.65,658.95,336.06,322.89,Home Office
+ORD-00244,2024-05-29,CUST-0024,Sample Customer 24,South,Karnataka,Office Supplies,Printers,Printer Paper,3,516.13,1548.39,882.58,665.81,Home Office
+ORD-00245,2023-12-12,CUST-0155,Sample Customer 155,North,Delhi,Technology,Accessories,Headphones,6,2073.65,12441.9,7465.14,4976.76,Home Office
+ORD-00246,2023-09-29,CUST-0148,Sample Customer 148,West,Gujarat,Technology,Phones,Smartphone,1,14748.2,14748.2,10766.19,3982.01,Home Office
+ORD-00247,2024-07-12,CUST-0161,Sample Customer 161,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,6,170.96,1025.76,523.14,502.62,Corporate
+ORD-00248,2023-03-16,CUST-0117,Sample Customer 117,South,Tamil Nadu,Technology,Accessories,Headphones,6,1942.68,11656.08,6993.65,4662.43,Home Office
+ORD-00249,2023-12-15,CUST-0053,Sample Customer 53,West,Gujarat,Furniture,Tables,Desk,4,8956.48,35825.92,27227.7,8598.22,Home Office
+ORD-00250,2024-02-13,CUST-0089,Sample Customer 89,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,3,534.06,1602.18,913.24,688.94,Consumer
+ORD-00251,2024-04-05,CUST-0069,Sample Customer 69,South,Karnataka,Furniture,Chairs,Office Chair,2,5938.66,11877.32,8195.35,3681.97,Consumer
+ORD-00252,2024-03-04,CUST-0158,Sample Customer 158,North,Delhi,Technology,Phones,Smartphone,3,14735.87,44207.61,32271.56,11936.05,Consumer
+ORD-00253,2024-05-25,CUST-0041,Sample Customer 41,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,6,187.82,1126.92,574.73,552.19,Home Office
+ORD-00254,2024-06-01,CUST-0101,Sample Customer 101,East,Odisha,Furniture,Chairs,Office Chair,4,5140.86,20563.44,14188.77,6374.67,Corporate
+ORD-00255,2024-05-21,CUST-0073,Sample Customer 73,North,Delhi,Office Supplies,Stationery,Notebook,3,172.05,516.15,263.24,252.91,Home Office
+ORD-00256,2023-05-18,CUST-0111,Sample Customer 111,East,Odisha,Office Supplies,Stationery,Notebook,1,219.73,219.73,112.06,107.67,Corporate
+ORD-00257,2024-07-29,CUST-0146,Sample Customer 146,South,Tamil Nadu,Furniture,Chairs,Office Chair,1,5820.08,5820.08,4015.86,1804.22,Consumer
+ORD-00258,2023-10-14,CUST-0141,Sample Customer 141,South,Tamil Nadu,Technology,Phones,Smartphone,4,13015.6,52062.4,38005.55,14056.85,Home Office
+ORD-00259,2024-07-25,CUST-0087,Sample Customer 87,West,Gujarat,Technology,Phones,Smartphone,4,12504.51,50018.04,36513.17,13504.87,Corporate
+ORD-00260,2023-02-16,CUST-0011,Sample Customer 11,North,Delhi,Office Supplies,Stationery,Notebook,5,193.11,965.55,492.43,473.12,Consumer
+ORD-00261,2024-06-11,CUST-0156,Sample Customer 156,North,Uttar Pradesh,Furniture,Tables,Desk,5,8882.88,44414.4,33754.94,10659.46,Consumer
+ORD-00262,2024-08-30,CUST-0077,Sample Customer 77,South,Tamil Nadu,Technology,Accessories,Headphones,4,2293.22,9172.88,5503.73,3669.15,Corporate
+ORD-00263,2023-04-23,CUST-0173,Sample Customer 173,East,Odisha,Furniture,Tables,Desk,1,8643.61,8643.61,6569.14,2074.47,Corporate
+ORD-00264,2024-08-15,CUST-0168,Sample Customer 168,South,Karnataka,Office Supplies,Stationery,Notebook,4,185.0,740.0,377.4,362.6,Home Office
+ORD-00265,2024-09-26,CUST-0162,Sample Customer 162,North,Delhi,Office Supplies,Stationery,Notebook,4,179.33,717.32,365.83,351.49,Corporate
+ORD-00266,2023-07-15,CUST-0029,Sample Customer 29,North,Delhi,Technology,Phones,Smartphone,5,14746.87,73734.35,53826.08,19908.27,Consumer
+ORD-00267,2024-02-25,CUST-0053,Sample Customer 53,East,Odisha,Furniture,Tables,Desk,2,8764.02,17528.04,13321.31,4206.73,Home Office
+ORD-00268,2023-11-29,CUST-0144,Sample Customer 144,East,West Bengal,Office Supplies,Printers,Printer Paper,2,501.8,1003.6,572.05,431.55,Home Office
+ORD-00269,2023-12-17,CUST-0137,Sample Customer 137,East,Odisha,Furniture,Chairs,Office Chair,2,5926.41,11852.82,8178.45,3674.37,Home Office
+ORD-00270,2023-10-13,CUST-0064,Sample Customer 64,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,180.63,722.52,368.49,354.03,Home Office
+ORD-00271,2024-12-22,CUST-0177,Sample Customer 177,South,Karnataka,Furniture,Chairs,Office Chair,3,6367.76,19103.28,13181.26,5922.02,Corporate
+ORD-00272,2023-10-22,CUST-0071,Sample Customer 71,South,Tamil Nadu,Furniture,Chairs,Office Chair,5,6779.53,33897.65,23389.38,10508.27,Consumer
+ORD-00273,2023-03-22,CUST-0074,Sample Customer 74,East,Odisha,Furniture,Chairs,Office Chair,2,5621.88,11243.76,7758.19,3485.57,Corporate
+ORD-00274,2023-10-05,CUST-0138,Sample Customer 138,East,Odisha,Office Supplies,Printers,Printer Paper,4,456.18,1824.72,1040.09,784.63,Home Office
+ORD-00275,2023-09-06,CUST-0062,Sample Customer 62,South,Karnataka,Technology,Phones,Smartphone,5,13938.4,69692.0,50875.16,18816.84,Consumer
+ORD-00276,2023-04-13,CUST-0121,Sample Customer 121,North,Delhi,Technology,Phones,Smartphone,1,12660.9,12660.9,9242.46,3418.44,Home Office
+ORD-00277,2024-05-03,CUST-0122,Sample Customer 122,North,Delhi,Office Supplies,Stationery,Notebook,2,193.44,386.88,197.31,189.57,Home Office
+ORD-00278,2024-10-29,CUST-0023,Sample Customer 23,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,6261.57,18784.71,12961.45,5823.26,Home Office
+ORD-00279,2023-02-07,CUST-0046,Sample Customer 46,North,Delhi,Technology,Accessories,Headphones,4,2228.23,8912.92,5347.75,3565.17,Corporate
+ORD-00280,2023-11-02,CUST-0003,Sample Customer 3,East,West Bengal,Office Supplies,Printers,Printer Paper,3,555.4,1666.2,949.73,716.47,Home Office
+ORD-00281,2024-06-20,CUST-0140,Sample Customer 140,West,Maharashtra,Furniture,Chairs,Office Chair,4,6879.23,27516.92,18986.67,8530.25,Corporate
+ORD-00282,2023-06-16,CUST-0085,Sample Customer 85,North,Uttar Pradesh,Furniture,Chairs,Office Chair,2,6554.77,13109.54,9045.58,4063.96,Home Office
+ORD-00283,2023-10-30,CUST-0087,Sample Customer 87,East,Odisha,Office Supplies,Printers,Printer Paper,2,426.26,852.52,485.94,366.58,Home Office
+ORD-00284,2024-06-11,CUST-0110,Sample Customer 110,North,Delhi,Office Supplies,Stationery,Notebook,6,222.7,1336.2,681.46,654.74,Corporate
+ORD-00285,2024-05-03,CUST-0036,Sample Customer 36,West,Maharashtra,Office Supplies,Printers,Printer Paper,1,451.81,451.81,257.53,194.28,Corporate
+ORD-00286,2023-12-04,CUST-0069,Sample Customer 69,North,Delhi,Furniture,Chairs,Office Chair,4,5523.02,22092.08,15243.54,6848.54,Corporate
+ORD-00287,2024-11-14,CUST-0016,Sample Customer 16,West,Maharashtra,Office Supplies,Printers,Printer Paper,3,527.86,1583.58,902.64,680.94,Consumer
+ORD-00288,2024-12-07,CUST-0080,Sample Customer 80,East,Odisha,Technology,Accessories,Headphones,4,2110.59,8442.36,5065.42,3376.94,Consumer
+ORD-00289,2024-05-04,CUST-0035,Sample Customer 35,South,Tamil Nadu,Office Supplies,Stationery,Notebook,2,182.23,364.46,185.87,178.59,Consumer
+ORD-00290,2024-07-04,CUST-0121,Sample Customer 121,East,Odisha,Furniture,Tables,Desk,6,9131.92,54791.52,41641.56,13149.96,Home Office
+ORD-00291,2024-06-22,CUST-0021,Sample Customer 21,North,Delhi,Office Supplies,Printers,Printer Paper,5,554.86,2774.3,1581.35,1192.95,Corporate
+ORD-00292,2024-06-01,CUST-0141,Sample Customer 141,South,Karnataka,Office Supplies,Stationery,Notebook,1,172.84,172.84,88.15,84.69,Consumer
+ORD-00293,2023-07-30,CUST-0175,Sample Customer 175,North,Delhi,Furniture,Chairs,Office Chair,5,5894.33,29471.65,20335.44,9136.21,Home Office
+ORD-00294,2023-05-16,CUST-0117,Sample Customer 117,East,West Bengal,Office Supplies,Stationery,Notebook,4,217.43,869.72,443.56,426.16,Home Office
+ORD-00295,2023-11-12,CUST-0173,Sample Customer 173,East,Odisha,Office Supplies,Stationery,Notebook,1,202.51,202.51,103.28,99.23,Home Office
+ORD-00296,2023-03-16,CUST-0149,Sample Customer 149,West,Maharashtra,Furniture,Chairs,Office Chair,1,6441.37,6441.37,4444.55,1996.82,Consumer
+ORD-00297,2023-03-12,CUST-0016,Sample Customer 16,East,Odisha,Office Supplies,Printers,Printer Paper,1,505.16,505.16,287.94,217.22,Corporate
+ORD-00298,2024-10-23,CUST-0165,Sample Customer 165,West,Maharashtra,Furniture,Tables,Desk,2,9725.14,19450.28,14782.21,4668.07,Corporate
+ORD-00299,2024-11-08,CUST-0175,Sample Customer 175,South,Tamil Nadu,Furniture,Tables,Desk,4,8663.28,34653.12,26336.37,8316.75,Home Office
+ORD-00300,2024-06-25,CUST-0101,Sample Customer 101,North,Uttar Pradesh,Technology,Phones,Smartphone,2,14920.95,29841.9,21784.59,8057.31,Consumer
+ORD-00301,2024-03-10,CUST-0140,Sample Customer 140,North,Delhi,Technology,Phones,Smartphone,3,12854.73,38564.19,28151.86,10412.33,Home Office
+ORD-00302,2023-07-13,CUST-0071,Sample Customer 71,East,West Bengal,Technology,Accessories,Headphones,4,1906.74,7626.96,4576.18,3050.78,Home Office
+ORD-00303,2023-09-04,CUST-0005,Sample Customer 5,West,Gujarat,Office Supplies,Printers,Printer Paper,4,516.2,2064.8,1176.94,887.86,Consumer
+ORD-00304,2024-12-21,CUST-0173,Sample Customer 173,West,Gujarat,Office Supplies,Stationery,Notebook,1,195.8,195.8,99.86,95.94,Consumer
+ORD-00305,2023-02-27,CUST-0056,Sample Customer 56,North,Delhi,Furniture,Tables,Desk,4,8281.8,33127.2,25176.67,7950.53,Consumer
+ORD-00306,2024-11-19,CUST-0154,Sample Customer 154,South,Karnataka,Office Supplies,Printers,Printer Paper,5,471.89,2359.45,1344.89,1014.56,Corporate
+ORD-00307,2023-11-04,CUST-0106,Sample Customer 106,North,Uttar Pradesh,Technology,Accessories,Headphones,6,2011.74,12070.44,7242.26,4828.18,Corporate
+ORD-00308,2023-02-18,CUST-0127,Sample Customer 127,West,Gujarat,Office Supplies,Printers,Printer Paper,6,488.1,2928.6,1669.3,1259.3,Corporate
+ORD-00309,2024-01-21,CUST-0077,Sample Customer 77,East,Odisha,Office Supplies,Printers,Printer Paper,4,485.27,1941.08,1106.42,834.66,Consumer
+ORD-00310,2024-04-19,CUST-0037,Sample Customer 37,East,West Bengal,Technology,Accessories,Headphones,3,2213.42,6640.26,3984.16,2656.1,Consumer
+ORD-00311,2023-09-19,CUST-0063,Sample Customer 63,East,Odisha,Office Supplies,Stationery,Notebook,5,177.16,885.8,451.76,434.04,Consumer
+ORD-00312,2023-02-22,CUST-0049,Sample Customer 49,South,Karnataka,Furniture,Tables,Desk,3,7898.78,23696.34,18009.22,5687.12,Corporate
+ORD-00313,2024-11-18,CUST-0151,Sample Customer 151,East,West Bengal,Technology,Phones,Smartphone,2,14187.05,28374.1,20713.09,7661.01,Home Office
+ORD-00314,2023-08-05,CUST-0004,Sample Customer 4,North,Uttar Pradesh,Technology,Accessories,Headphones,3,1880.97,5642.91,3385.75,2257.16,Consumer
+ORD-00315,2024-02-11,CUST-0053,Sample Customer 53,West,Maharashtra,Technology,Accessories,Headphones,6,2061.61,12369.66,7421.8,4947.86,Consumer
+ORD-00316,2023-11-12,CUST-0092,Sample Customer 92,South,Tamil Nadu,Furniture,Tables,Desk,4,9089.85,36359.4,27633.14,8726.26,Corporate
+ORD-00317,2023-11-24,CUST-0121,Sample Customer 121,South,Tamil Nadu,Furniture,Tables,Desk,1,9816.51,9816.51,7460.55,2355.96,Consumer
+ORD-00318,2023-05-30,CUST-0057,Sample Customer 57,South,Tamil Nadu,Furniture,Tables,Desk,1,9167.8,9167.8,6967.53,2200.27,Consumer
+ORD-00319,2024-01-24,CUST-0059,Sample Customer 59,South,Tamil Nadu,Furniture,Chairs,Office Chair,2,5452.24,10904.48,7524.09,3380.39,Home Office
+ORD-00320,2023-09-21,CUST-0087,Sample Customer 87,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,6,225.47,1352.82,689.94,662.88,Corporate
+ORD-00321,2023-05-24,CUST-0044,Sample Customer 44,East,Odisha,Technology,Accessories,Headphones,6,2175.9,13055.4,7833.24,5222.16,Home Office
+ORD-00322,2023-02-04,CUST-0135,Sample Customer 135,East,West Bengal,Office Supplies,Stationery,Notebook,6,226.3,1357.8,692.48,665.32,Consumer
+ORD-00323,2023-03-11,CUST-0060,Sample Customer 60,West,Gujarat,Furniture,Tables,Desk,2,9923.77,19847.54,15084.13,4763.41,Home Office
+ORD-00324,2024-09-24,CUST-0016,Sample Customer 16,North,Delhi,Technology,Accessories,Headphones,5,1972.62,9863.1,5917.86,3945.24,Home Office
+ORD-00325,2023-01-13,CUST-0106,Sample Customer 106,East,Odisha,Technology,Phones,Smartphone,1,13124.62,13124.62,9580.97,3543.65,Consumer
+ORD-00326,2024-03-16,CUST-0173,Sample Customer 173,South,Tamil Nadu,Technology,Phones,Smartphone,5,14220.22,71101.1,51903.8,19197.3,Consumer
+ORD-00327,2024-06-23,CUST-0159,Sample Customer 159,West,Gujarat,Office Supplies,Stationery,Notebook,2,183.54,367.08,187.21,179.87,Corporate
+ORD-00328,2024-04-15,CUST-0104,Sample Customer 104,South,Tamil Nadu,Furniture,Tables,Desk,1,8656.28,8656.28,6578.77,2077.51,Home Office
+ORD-00329,2024-10-31,CUST-0021,Sample Customer 21,North,Delhi,Furniture,Chairs,Office Chair,6,6589.41,39536.46,27280.16,12256.3,Home Office
+ORD-00330,2023-02-27,CUST-0122,Sample Customer 122,West,Gujarat,Furniture,Tables,Desk,4,8667.39,34669.56,26348.87,8320.69,Home Office
+ORD-00331,2023-12-06,CUST-0166,Sample Customer 166,West,Gujarat,Technology,Phones,Smartphone,4,14345.68,57382.72,41889.39,15493.33,Home Office
+ORD-00332,2024-08-03,CUST-0178,Sample Customer 178,West,Gujarat,Technology,Accessories,Headphones,2,2239.64,4479.28,2687.57,1791.71,Corporate
+ORD-00333,2024-07-31,CUST-0140,Sample Customer 140,South,Karnataka,Technology,Phones,Smartphone,6,14658.65,87951.9,64204.89,23747.01,Home Office
+ORD-00334,2023-05-28,CUST-0151,Sample Customer 151,West,Gujarat,Furniture,Chairs,Office Chair,1,6829.51,6829.51,4712.36,2117.15,Home Office
+ORD-00335,2024-02-03,CUST-0146,Sample Customer 146,East,West Bengal,Furniture,Chairs,Office Chair,2,6114.11,12228.22,8437.47,3790.75,Home Office
+ORD-00336,2023-03-22,CUST-0177,Sample Customer 177,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,2,542.49,1084.98,618.44,466.54,Home Office
+ORD-00337,2023-12-15,CUST-0020,Sample Customer 20,South,Karnataka,Technology,Phones,Smartphone,4,11954.44,47817.76,34906.96,12910.8,Home Office
+ORD-00338,2024-05-17,CUST-0116,Sample Customer 116,East,Odisha,Technology,Phones,Smartphone,6,12115.04,72690.24,53063.88,19626.36,Consumer
+ORD-00339,2024-01-25,CUST-0170,Sample Customer 170,South,Tamil Nadu,Furniture,Tables,Desk,2,9484.12,18968.24,14415.86,4552.38,Consumer
+ORD-00340,2024-01-25,CUST-0040,Sample Customer 40,South,Karnataka,Office Supplies,Printers,Printer Paper,1,436.43,436.43,248.77,187.66,Home Office
+ORD-00341,2023-11-12,CUST-0002,Sample Customer 2,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,5290.91,15872.73,10952.18,4920.55,Corporate
+ORD-00342,2024-04-04,CUST-0111,Sample Customer 111,South,Tamil Nadu,Technology,Phones,Smartphone,2,11389.58,22779.16,16628.79,6150.37,Home Office
+ORD-00343,2024-09-03,CUST-0024,Sample Customer 24,East,West Bengal,Technology,Phones,Smartphone,1,12429.31,12429.31,9073.4,3355.91,Home Office
+ORD-00344,2024-07-26,CUST-0022,Sample Customer 22,South,Tamil Nadu,Technology,Phones,Smartphone,3,12662.89,37988.67,27731.73,10256.94,Consumer
+ORD-00345,2024-05-19,CUST-0069,Sample Customer 69,North,Uttar Pradesh,Technology,Accessories,Headphones,2,1860.42,3720.84,2232.5,1488.34,Consumer
+ORD-00346,2023-03-20,CUST-0124,Sample Customer 124,West,Gujarat,Furniture,Tables,Desk,3,8786.0,26358.0,20032.08,6325.92,Corporate
+ORD-00347,2023-07-20,CUST-0158,Sample Customer 158,South,Karnataka,Office Supplies,Printers,Printer Paper,6,498.37,2990.22,1704.43,1285.79,Corporate
+ORD-00348,2024-09-27,CUST-0086,Sample Customer 86,West,Gujarat,Furniture,Chairs,Office Chair,1,6806.75,6806.75,4696.66,2110.09,Corporate
+ORD-00349,2024-08-31,CUST-0167,Sample Customer 167,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,6566.76,26267.04,18124.26,8142.78,Consumer
+ORD-00350,2023-07-01,CUST-0081,Sample Customer 81,South,Tamil Nadu,Office Supplies,Stationery,Notebook,6,181.14,1086.84,554.29,532.55,Corporate
+ORD-00351,2023-09-06,CUST-0148,Sample Customer 148,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,6,518.9,3113.4,1774.64,1338.76,Corporate
+ORD-00352,2023-07-24,CUST-0145,Sample Customer 145,East,Odisha,Furniture,Tables,Desk,3,7956.61,23869.83,18141.07,5728.76,Home Office
+ORD-00353,2024-03-24,CUST-0054,Sample Customer 54,North,Delhi,Office Supplies,Printers,Printer Paper,4,565.31,2261.24,1288.91,972.33,Corporate
+ORD-00354,2023-09-05,CUST-0078,Sample Customer 78,West,Maharashtra,Office Supplies,Printers,Printer Paper,4,444.99,1779.96,1014.58,765.38,Corporate
+ORD-00355,2024-05-05,CUST-0154,Sample Customer 154,North,Uttar Pradesh,Furniture,Tables,Desk,1,8861.5,8861.5,6734.74,2126.76,Home Office
+ORD-00356,2024-12-19,CUST-0093,Sample Customer 93,East,Odisha,Office Supplies,Stationery,Notebook,1,216.36,216.36,110.34,106.02,Home Office
+ORD-00357,2024-10-24,CUST-0043,Sample Customer 43,West,Gujarat,Technology,Accessories,Headphones,6,2097.77,12586.62,7551.97,5034.65,Home Office
+ORD-00358,2023-09-22,CUST-0026,Sample Customer 26,West,Maharashtra,Furniture,Chairs,Office Chair,4,5289.82,21159.28,14599.9,6559.38,Consumer
+ORD-00359,2024-08-25,CUST-0174,Sample Customer 174,North,Uttar Pradesh,Furniture,Chairs,Office Chair,4,5932.52,23730.08,16373.76,7356.32,Home Office
+ORD-00360,2023-03-29,CUST-0107,Sample Customer 107,North,Uttar Pradesh,Technology,Phones,Smartphone,4,11456.86,45827.44,33454.03,12373.41,Consumer
+ORD-00361,2024-06-17,CUST-0053,Sample Customer 53,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,5918.61,17755.83,12251.52,5504.31,Corporate
+ORD-00362,2023-11-23,CUST-0116,Sample Customer 116,South,Tamil Nadu,Technology,Phones,Smartphone,4,13864.71,55458.84,40484.95,14973.89,Consumer
+ORD-00363,2024-10-25,CUST-0088,Sample Customer 88,South,Karnataka,Office Supplies,Printers,Printer Paper,1,427.53,427.53,243.69,183.84,Consumer
+ORD-00364,2024-07-27,CUST-0085,Sample Customer 85,North,Delhi,Office Supplies,Stationery,Notebook,2,202.1,404.2,206.14,198.06,Corporate
+ORD-00365,2024-11-04,CUST-0164,Sample Customer 164,East,West Bengal,Furniture,Tables,Desk,6,8147.11,48882.66,37150.82,11731.84,Corporate
+ORD-00366,2024-08-29,CUST-0116,Sample Customer 116,East,West Bengal,Office Supplies,Printers,Printer Paper,5,556.35,2781.75,1585.6,1196.15,Corporate
+ORD-00367,2024-08-14,CUST-0017,Sample Customer 17,East,West Bengal,Office Supplies,Printers,Printer Paper,2,454.96,909.92,518.65,391.27,Consumer
+ORD-00368,2024-11-17,CUST-0068,Sample Customer 68,North,Uttar Pradesh,Furniture,Chairs,Office Chair,2,5922.6,11845.2,8173.19,3672.01,Corporate
+ORD-00369,2023-12-27,CUST-0090,Sample Customer 90,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,204.19,816.76,416.55,400.21,Corporate
+ORD-00370,2023-11-17,CUST-0035,Sample Customer 35,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,5,174.21,871.05,444.24,426.81,Consumer
+ORD-00371,2024-06-07,CUST-0037,Sample Customer 37,North,Uttar Pradesh,Technology,Phones,Smartphone,2,12504.93,25009.86,18257.2,6752.66,Corporate
+ORD-00372,2024-10-12,CUST-0125,Sample Customer 125,East,West Bengal,Office Supplies,Stationery,Notebook,4,194.41,777.64,396.6,381.04,Home Office
+ORD-00373,2024-04-06,CUST-0081,Sample Customer 81,North,Delhi,Furniture,Tables,Desk,3,8027.91,24083.73,18303.63,5780.1,Home Office
+ORD-00374,2024-07-29,CUST-0099,Sample Customer 99,West,Maharashtra,Technology,Phones,Smartphone,4,11581.59,46326.36,33818.24,12508.12,Home Office
+ORD-00375,2024-05-15,CUST-0114,Sample Customer 114,East,Odisha,Office Supplies,Printers,Printer Paper,4,486.37,1945.48,1108.92,836.56,Consumer
+ORD-00376,2024-07-04,CUST-0058,Sample Customer 58,West,Gujarat,Technology,Accessories,Headphones,3,1718.76,5156.28,3093.77,2062.51,Corporate
+ORD-00377,2024-07-16,CUST-0127,Sample Customer 127,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,6,215.27,1291.62,658.73,632.89,Home Office
+ORD-00378,2024-07-09,CUST-0094,Sample Customer 94,West,Gujarat,Furniture,Chairs,Office Chair,5,6580.81,32904.05,22703.79,10200.26,Consumer
+ORD-00379,2023-09-11,CUST-0168,Sample Customer 168,East,West Bengal,Furniture,Tables,Desk,1,9636.1,9636.1,7323.44,2312.66,Corporate
+ORD-00380,2024-03-25,CUST-0023,Sample Customer 23,West,Maharashtra,Furniture,Chairs,Office Chair,3,6650.85,19952.55,13767.26,6185.29,Consumer
+ORD-00381,2024-10-09,CUST-0157,Sample Customer 157,North,Delhi,Office Supplies,Printers,Printer Paper,5,527.31,2636.55,1502.83,1133.72,Corporate
+ORD-00382,2023-12-26,CUST-0146,Sample Customer 146,North,Delhi,Technology,Accessories,Headphones,2,2182.17,4364.34,2618.6,1745.74,Home Office
+ORD-00383,2023-10-01,CUST-0147,Sample Customer 147,South,Karnataka,Furniture,Chairs,Office Chair,6,5625.8,33754.8,23290.81,10463.99,Home Office
+ORD-00384,2023-05-10,CUST-0168,Sample Customer 168,West,Gujarat,Furniture,Tables,Desk,1,10328.57,10328.57,7849.71,2478.86,Home Office
+ORD-00385,2024-11-23,CUST-0064,Sample Customer 64,North,Delhi,Technology,Accessories,Headphones,6,1892.31,11353.86,6812.32,4541.54,Corporate
+ORD-00386,2024-01-20,CUST-0107,Sample Customer 107,East,West Bengal,Office Supplies,Stationery,Notebook,6,185.19,1111.14,566.68,544.46,Corporate
+ORD-00387,2024-01-13,CUST-0178,Sample Customer 178,West,Gujarat,Furniture,Tables,Desk,5,9673.39,48366.95,36758.88,11608.07,Corporate
+ORD-00388,2024-04-14,CUST-0024,Sample Customer 24,East,Odisha,Office Supplies,Stationery,Notebook,1,221.02,221.02,112.72,108.3,Home Office
+ORD-00389,2023-08-05,CUST-0110,Sample Customer 110,South,Karnataka,Office Supplies,Stationery,Notebook,4,182.15,728.6,371.59,357.01,Corporate
+ORD-00390,2024-08-02,CUST-0034,Sample Customer 34,South,Tamil Nadu,Furniture,Chairs,Office Chair,3,6084.14,18252.42,12594.17,5658.25,Corporate
+ORD-00391,2023-01-17,CUST-0118,Sample Customer 118,South,Karnataka,Technology,Phones,Smartphone,1,13491.06,13491.06,9848.47,3642.59,Consumer
+ORD-00392,2023-07-27,CUST-0110,Sample Customer 110,North,Uttar Pradesh,Furniture,Tables,Desk,1,10326.82,10326.82,7848.38,2478.44,Home Office
+ORD-00393,2023-09-14,CUST-0093,Sample Customer 93,North,Uttar Pradesh,Technology,Accessories,Headphones,3,1755.13,5265.39,3159.23,2106.16,Consumer
+ORD-00394,2023-08-28,CUST-0180,Sample Customer 180,South,Karnataka,Technology,Phones,Smartphone,4,13488.82,53955.28,39387.35,14567.93,Corporate
+ORD-00395,2024-08-30,CUST-0034,Sample Customer 34,West,Gujarat,Technology,Phones,Smartphone,2,12908.55,25817.1,18846.48,6970.62,Consumer
+ORD-00396,2024-03-08,CUST-0031,Sample Customer 31,East,West Bengal,Technology,Phones,Smartphone,6,12388.99,74333.94,54263.78,20070.16,Home Office
+ORD-00397,2023-04-16,CUST-0027,Sample Customer 27,North,Uttar Pradesh,Technology,Phones,Smartphone,2,12543.01,25086.02,18312.79,6773.23,Corporate
+ORD-00398,2024-10-18,CUST-0035,Sample Customer 35,South,Tamil Nadu,Technology,Accessories,Headphones,4,2162.99,8651.96,5191.18,3460.78,Home Office
+ORD-00399,2023-06-18,CUST-0167,Sample Customer 167,North,Delhi,Office Supplies,Stationery,Notebook,5,169.66,848.3,432.63,415.67,Corporate
+ORD-00400,2024-09-22,CUST-0106,Sample Customer 106,South,Karnataka,Office Supplies,Printers,Printer Paper,6,446.81,2680.86,1528.09,1152.77,Home Office
+ORD-00401,2024-08-26,CUST-0032,Sample Customer 32,East,West Bengal,Technology,Phones,Smartphone,1,11595.16,11595.16,8464.47,3130.69,Home Office
+ORD-00402,2023-10-11,CUST-0064,Sample Customer 64,East,Odisha,Furniture,Tables,Desk,3,9784.82,29354.46,22309.39,7045.07,Home Office
+ORD-00403,2023-10-19,CUST-0156,Sample Customer 156,West,Gujarat,Office Supplies,Stationery,Notebook,5,204.97,1024.85,522.67,502.18,Home Office
+ORD-00404,2024-02-06,CUST-0049,Sample Customer 49,West,Maharashtra,Technology,Accessories,Headphones,5,2063.12,10315.6,6189.36,4126.24,Corporate
+ORD-00405,2024-10-15,CUST-0128,Sample Customer 128,West,Gujarat,Furniture,Tables,Desk,4,7953.52,31814.08,24178.7,7635.38,Home Office
+ORD-00406,2024-03-06,CUST-0146,Sample Customer 146,West,Gujarat,Furniture,Chairs,Office Chair,3,5336.68,16010.04,11046.93,4963.11,Corporate
+ORD-00407,2023-09-26,CUST-0004,Sample Customer 4,North,Uttar Pradesh,Technology,Phones,Smartphone,1,13339.69,13339.69,9737.97,3601.72,Consumer
+ORD-00408,2024-03-01,CUST-0129,Sample Customer 129,West,Gujarat,Furniture,Tables,Desk,5,8422.58,42112.9,32005.8,10107.1,Corporate
+ORD-00409,2023-10-12,CUST-0040,Sample Customer 40,East,West Bengal,Office Supplies,Printers,Printer Paper,5,504.64,2523.2,1438.22,1084.98,Consumer
+ORD-00410,2024-07-03,CUST-0040,Sample Customer 40,South,Karnataka,Office Supplies,Stationery,Notebook,2,227.32,454.64,231.87,222.77,Corporate
+ORD-00411,2023-03-01,CUST-0062,Sample Customer 62,East,West Bengal,Furniture,Chairs,Office Chair,6,5886.49,35318.94,24370.07,10948.87,Consumer
+ORD-00412,2023-11-13,CUST-0015,Sample Customer 15,West,Maharashtra,Technology,Phones,Smartphone,4,13436.92,53747.68,39235.81,14511.87,Home Office
+ORD-00413,2023-06-17,CUST-0003,Sample Customer 3,North,Delhi,Technology,Phones,Smartphone,6,11584.23,69505.38,50738.93,18766.45,Corporate
+ORD-00414,2023-05-01,CUST-0069,Sample Customer 69,South,Tamil Nadu,Technology,Accessories,Headphones,3,1775.27,5325.81,3195.49,2130.32,Consumer
+ORD-00415,2024-10-04,CUST-0148,Sample Customer 148,South,Tamil Nadu,Furniture,Chairs,Office Chair,5,5214.1,26070.5,17988.64,8081.86,Consumer
+ORD-00416,2023-06-20,CUST-0146,Sample Customer 146,East,Odisha,Office Supplies,Stationery,Notebook,3,172.46,517.38,263.86,253.52,Corporate
+ORD-00417,2023-08-22,CUST-0030,Sample Customer 30,North,Uttar Pradesh,Technology,Phones,Smartphone,5,13678.02,68390.1,49924.77,18465.33,Home Office
+ORD-00418,2024-01-28,CUST-0094,Sample Customer 94,West,Gujarat,Technology,Phones,Smartphone,2,11228.46,22456.92,16393.55,6063.37,Consumer
+ORD-00419,2023-08-18,CUST-0108,Sample Customer 108,North,Delhi,Office Supplies,Stationery,Notebook,6,213.37,1280.22,652.91,627.31,Corporate
+ORD-00420,2024-08-08,CUST-0020,Sample Customer 20,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,3,464.76,1394.28,794.74,599.54,Corporate
+ORD-00421,2024-02-15,CUST-0012,Sample Customer 12,West,Gujarat,Technology,Accessories,Headphones,2,2181.51,4363.02,2617.81,1745.21,Consumer
+ORD-00422,2023-01-09,CUST-0117,Sample Customer 117,East,Odisha,Furniture,Chairs,Office Chair,3,5254.62,15763.86,10877.06,4886.8,Corporate
+ORD-00423,2024-04-20,CUST-0063,Sample Customer 63,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,3,213.3,639.9,326.35,313.55,Corporate
+ORD-00424,2023-06-04,CUST-0063,Sample Customer 63,East,West Bengal,Office Supplies,Printers,Printer Paper,5,537.99,2689.95,1533.27,1156.68,Consumer
+ORD-00425,2023-01-10,CUST-0178,Sample Customer 178,East,West Bengal,Technology,Accessories,Headphones,5,1906.9,9534.5,5720.7,3813.8,Corporate
+ORD-00426,2024-06-26,CUST-0053,Sample Customer 53,West,Maharashtra,Office Supplies,Printers,Printer Paper,6,470.18,2821.08,1608.02,1213.06,Consumer
+ORD-00427,2023-02-14,CUST-0024,Sample Customer 24,East,Odisha,Technology,Phones,Smartphone,2,13824.38,27648.76,20183.59,7465.17,Consumer
+ORD-00428,2024-06-01,CUST-0025,Sample Customer 25,East,Odisha,Furniture,Tables,Desk,6,7878.36,47270.16,35925.32,11344.84,Consumer
+ORD-00429,2023-05-14,CUST-0170,Sample Customer 170,East,West Bengal,Office Supplies,Stationery,Notebook,5,172.87,864.35,440.82,423.53,Consumer
+ORD-00430,2023-11-22,CUST-0084,Sample Customer 84,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,6360.25,25441.0,17554.29,7886.71,Corporate
+ORD-00431,2023-04-22,CUST-0150,Sample Customer 150,South,Karnataka,Technology,Phones,Smartphone,2,11579.95,23159.9,16906.73,6253.17,Consumer
+ORD-00432,2024-07-02,CUST-0031,Sample Customer 31,West,Gujarat,Furniture,Tables,Desk,4,8496.95,33987.8,25830.73,8157.07,Corporate
+ORD-00433,2023-04-03,CUST-0031,Sample Customer 31,North,Uttar Pradesh,Furniture,Chairs,Office Chair,4,5576.08,22304.32,15389.98,6914.34,Consumer
+ORD-00434,2023-12-31,CUST-0064,Sample Customer 64,South,Karnataka,Technology,Accessories,Headphones,3,1788.1,5364.3,3218.58,2145.72,Corporate
+ORD-00435,2024-04-08,CUST-0104,Sample Customer 104,West,Maharashtra,Furniture,Chairs,Office Chair,2,5155.09,10310.18,7114.02,3196.16,Home Office
+ORD-00436,2023-05-05,CUST-0036,Sample Customer 36,North,Delhi,Furniture,Tables,Desk,1,9819.43,9819.43,7462.77,2356.66,Consumer
+ORD-00437,2024-12-03,CUST-0096,Sample Customer 96,West,Gujarat,Technology,Accessories,Headphones,2,2193.11,4386.22,2631.73,1754.49,Home Office
+ORD-00438,2024-10-23,CUST-0051,Sample Customer 51,West,Maharashtra,Technology,Phones,Smartphone,1,14937.78,14937.78,10904.58,4033.2,Corporate
+ORD-00439,2023-02-21,CUST-0119,Sample Customer 119,North,Delhi,Furniture,Chairs,Office Chair,1,5175.99,5175.99,3571.43,1604.56,Consumer
+ORD-00440,2023-06-26,CUST-0110,Sample Customer 110,East,Odisha,Furniture,Tables,Desk,1,8682.4,8682.4,6598.62,2083.78,Corporate
+ORD-00441,2023-02-05,CUST-0039,Sample Customer 39,North,Delhi,Furniture,Chairs,Office Chair,3,5901.84,17705.52,12216.81,5488.71,Home Office
+ORD-00442,2023-03-04,CUST-0123,Sample Customer 123,North,Uttar Pradesh,Furniture,Tables,Desk,4,10032.39,40129.56,30498.47,9631.09,Consumer
+ORD-00443,2023-09-13,CUST-0135,Sample Customer 135,South,Tamil Nadu,Technology,Accessories,Headphones,4,1818.76,7275.04,4365.02,2910.02,Home Office
+ORD-00444,2023-12-19,CUST-0125,Sample Customer 125,West,Maharashtra,Office Supplies,Printers,Printer Paper,3,495.96,1487.88,848.09,639.79,Home Office
+ORD-00445,2023-08-13,CUST-0153,Sample Customer 153,South,Tamil Nadu,Furniture,Chairs,Office Chair,2,5146.06,10292.12,7101.56,3190.56,Consumer
+ORD-00446,2023-08-27,CUST-0150,Sample Customer 150,South,Karnataka,Furniture,Tables,Desk,5,8614.11,43070.55,32733.62,10336.93,Consumer
+ORD-00447,2023-08-13,CUST-0015,Sample Customer 15,West,Gujarat,Office Supplies,Printers,Printer Paper,2,464.05,928.1,529.02,399.08,Home Office
+ORD-00448,2024-12-15,CUST-0082,Sample Customer 82,East,Odisha,Technology,Accessories,Headphones,2,1841.01,3682.02,2209.21,1472.81,Corporate
+ORD-00449,2024-05-19,CUST-0049,Sample Customer 49,West,Maharashtra,Office Supplies,Stationery,Notebook,5,177.63,888.15,452.96,435.19,Home Office
+ORD-00450,2024-09-08,CUST-0060,Sample Customer 60,South,Karnataka,Furniture,Tables,Desk,1,7892.82,7892.82,5998.54,1894.28,Consumer
+ORD-00451,2023-05-14,CUST-0052,Sample Customer 52,West,Maharashtra,Technology,Phones,Smartphone,3,14628.67,43886.01,32036.79,11849.22,Corporate
+ORD-00452,2023-04-24,CUST-0037,Sample Customer 37,North,Uttar Pradesh,Technology,Phones,Smartphone,1,11625.18,11625.18,8486.38,3138.8,Home Office
+ORD-00453,2024-08-23,CUST-0102,Sample Customer 102,South,Karnataka,Furniture,Chairs,Office Chair,6,6794.33,40765.98,28128.53,12637.45,Consumer
+ORD-00454,2024-10-16,CUST-0112,Sample Customer 112,South,Tamil Nadu,Furniture,Chairs,Office Chair,2,6855.41,13710.82,9460.47,4250.35,Corporate
+ORD-00455,2024-01-01,CUST-0158,Sample Customer 158,South,Karnataka,Office Supplies,Printers,Printer Paper,5,527.98,2639.9,1504.74,1135.16,Consumer
+ORD-00456,2023-07-01,CUST-0033,Sample Customer 33,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,6338.24,38029.44,26240.31,11789.13,Home Office
+ORD-00457,2024-09-18,CUST-0082,Sample Customer 82,West,Maharashtra,Office Supplies,Stationery,Notebook,1,180.02,180.02,91.81,88.21,Consumer
+ORD-00458,2023-12-22,CUST-0061,Sample Customer 61,West,Maharashtra,Technology,Accessories,Headphones,3,2146.13,6438.39,3863.03,2575.36,Corporate
+ORD-00459,2024-04-02,CUST-0086,Sample Customer 86,North,Delhi,Office Supplies,Printers,Printer Paper,6,519.82,3118.92,1777.78,1341.14,Consumer
+ORD-00460,2023-04-21,CUST-0066,Sample Customer 66,South,Karnataka,Technology,Accessories,Headphones,6,1739.81,10438.86,6263.32,4175.54,Home Office
+ORD-00461,2024-02-28,CUST-0043,Sample Customer 43,West,Gujarat,Furniture,Tables,Desk,4,9626.91,38507.64,29265.81,9241.83,Corporate
+ORD-00462,2024-08-14,CUST-0123,Sample Customer 123,East,Odisha,Office Supplies,Stationery,Notebook,4,175.21,700.84,357.43,343.41,Home Office
+ORD-00463,2023-10-29,CUST-0009,Sample Customer 9,North,Delhi,Furniture,Tables,Desk,1,9806.74,9806.74,7453.12,2353.62,Consumer
+ORD-00464,2023-06-14,CUST-0097,Sample Customer 97,South,Tamil Nadu,Technology,Phones,Smartphone,1,12382.1,12382.1,9038.93,3343.17,Home Office
+ORD-00465,2024-12-22,CUST-0124,Sample Customer 124,West,Gujarat,Furniture,Chairs,Office Chair,5,6872.35,34361.75,23709.61,10652.14,Consumer
+ORD-00466,2023-12-06,CUST-0026,Sample Customer 26,East,West Bengal,Office Supplies,Stationery,Notebook,4,178.53,714.12,364.2,349.92,Consumer
+ORD-00467,2023-09-29,CUST-0139,Sample Customer 139,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,5,532.24,2661.2,1516.88,1144.32,Home Office
+ORD-00468,2024-07-16,CUST-0147,Sample Customer 147,South,Tamil Nadu,Technology,Accessories,Headphones,1,1728.92,1728.92,1037.35,691.57,Corporate
+ORD-00469,2024-11-08,CUST-0076,Sample Customer 76,North,Delhi,Furniture,Chairs,Office Chair,1,5868.71,5868.71,4049.41,1819.3,Home Office
+ORD-00470,2023-10-26,CUST-0164,Sample Customer 164,East,West Bengal,Technology,Phones,Smartphone,1,11856.2,11856.2,8655.03,3201.17,Consumer
+ORD-00471,2023-09-29,CUST-0170,Sample Customer 170,East,West Bengal,Furniture,Chairs,Office Chair,4,5946.71,23786.84,16412.92,7373.92,Consumer
+ORD-00472,2023-02-15,CUST-0115,Sample Customer 115,East,West Bengal,Furniture,Chairs,Office Chair,4,5763.96,23055.84,15908.53,7147.31,Corporate
+ORD-00473,2023-03-05,CUST-0145,Sample Customer 145,East,Odisha,Furniture,Chairs,Office Chair,2,6605.64,13211.28,9115.78,4095.5,Consumer
+ORD-00474,2024-08-26,CUST-0106,Sample Customer 106,West,Gujarat,Office Supplies,Printers,Printer Paper,3,545.13,1635.39,932.17,703.22,Consumer
+ORD-00475,2024-05-01,CUST-0176,Sample Customer 176,West,Maharashtra,Office Supplies,Stationery,Notebook,4,226.8,907.2,462.67,444.53,Home Office
+ORD-00476,2024-05-29,CUST-0009,Sample Customer 9,North,Uttar Pradesh,Furniture,Chairs,Office Chair,1,5809.68,5809.68,4008.68,1801.0,Home Office
+ORD-00477,2023-08-05,CUST-0043,Sample Customer 43,North,Delhi,Furniture,Tables,Desk,2,10211.33,20422.66,15521.22,4901.44,Consumer
+ORD-00478,2023-07-26,CUST-0112,Sample Customer 112,North,Delhi,Furniture,Tables,Desk,1,10317.21,10317.21,7841.08,2476.13,Home Office
+ORD-00479,2023-03-31,CUST-0018,Sample Customer 18,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,6744.39,40466.34,27921.77,12544.57,Corporate
+ORD-00480,2024-12-18,CUST-0004,Sample Customer 4,East,Odisha,Furniture,Chairs,Office Chair,5,5923.7,29618.5,20436.76,9181.74,Home Office
+ORD-00481,2024-08-19,CUST-0151,Sample Customer 151,East,West Bengal,Furniture,Tables,Desk,2,8049.24,16098.48,12234.84,3863.64,Consumer
+ORD-00482,2023-09-28,CUST-0106,Sample Customer 106,West,Gujarat,Furniture,Chairs,Office Chair,5,6683.13,33415.65,23056.8,10358.85,Corporate
+ORD-00483,2024-09-25,CUST-0037,Sample Customer 37,East,Odisha,Technology,Phones,Smartphone,2,12123.18,24246.36,17699.84,6546.52,Home Office
+ORD-00484,2024-05-01,CUST-0013,Sample Customer 13,East,West Bengal,Furniture,Tables,Desk,3,9513.33,28539.99,21690.39,6849.6,Corporate
+ORD-00485,2024-12-13,CUST-0126,Sample Customer 126,South,Karnataka,Furniture,Chairs,Office Chair,3,5658.77,16976.31,11713.65,5262.66,Home Office
+ORD-00486,2023-11-25,CUST-0114,Sample Customer 114,West,Gujarat,Technology,Accessories,Headphones,3,2283.39,6850.17,4110.1,2740.07,Corporate
+ORD-00487,2024-05-11,CUST-0105,Sample Customer 105,East,West Bengal,Technology,Accessories,Headphones,4,1825.92,7303.68,4382.21,2921.47,Home Office
+ORD-00488,2024-02-18,CUST-0130,Sample Customer 130,South,Karnataka,Office Supplies,Stationery,Notebook,2,173.07,346.14,176.53,169.61,Consumer
+ORD-00489,2023-02-03,CUST-0064,Sample Customer 64,West,Gujarat,Technology,Accessories,Headphones,2,2201.08,4402.16,2641.3,1760.86,Corporate
+ORD-00490,2024-06-01,CUST-0119,Sample Customer 119,West,Maharashtra,Office Supplies,Printers,Printer Paper,2,465.16,930.32,530.28,400.04,Corporate
+ORD-00491,2023-07-01,CUST-0115,Sample Customer 115,West,Gujarat,Technology,Accessories,Headphones,3,1992.28,5976.84,3586.1,2390.74,Corporate
+ORD-00492,2023-04-03,CUST-0177,Sample Customer 177,South,Tamil Nadu,Technology,Accessories,Headphones,3,2148.3,6444.9,3866.94,2577.96,Corporate
+ORD-00493,2023-08-15,CUST-0055,Sample Customer 55,West,Maharashtra,Technology,Phones,Smartphone,2,14378.8,28757.6,20993.05,7764.55,Home Office
+ORD-00494,2024-11-29,CUST-0006,Sample Customer 6,North,Delhi,Furniture,Chairs,Office Chair,6,5836.14,35016.84,24161.62,10855.22,Consumer
+ORD-00495,2023-08-18,CUST-0003,Sample Customer 3,East,West Bengal,Office Supplies,Printers,Printer Paper,2,514.14,1028.28,586.12,442.16,Corporate
+ORD-00496,2023-09-16,CUST-0118,Sample Customer 118,South,Tamil Nadu,Furniture,Tables,Desk,4,9948.18,39792.72,30242.47,9550.25,Consumer
+ORD-00497,2024-08-21,CUST-0102,Sample Customer 102,East,Odisha,Office Supplies,Printers,Printer Paper,5,547.55,2737.75,1560.52,1177.23,Consumer
+ORD-00498,2023-11-02,CUST-0073,Sample Customer 73,West,Maharashtra,Office Supplies,Stationery,Notebook,6,204.6,1227.6,626.08,601.52,Home Office
+ORD-00499,2023-11-29,CUST-0164,Sample Customer 164,West,Maharashtra,Technology,Phones,Smartphone,3,14903.46,44710.38,32638.58,12071.8,Corporate
+ORD-00500,2023-02-28,CUST-0062,Sample Customer 62,South,Tamil Nadu,Technology,Accessories,Headphones,2,2009.37,4018.74,2411.24,1607.5,Home Office
+ORD-00501,2024-05-24,CUST-0168,Sample Customer 168,East,Odisha,Office Supplies,Printers,Printer Paper,2,532.13,1064.26,606.63,457.63,Corporate
+ORD-00502,2024-12-26,CUST-0150,Sample Customer 150,South,Tamil Nadu,Furniture,Tables,Desk,4,9638.11,38552.44,29299.85,9252.59,Home Office
+ORD-00503,2024-10-15,CUST-0137,Sample Customer 137,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,6,457.44,2744.64,1564.44,1180.2,Corporate
+ORD-00504,2023-10-28,CUST-0047,Sample Customer 47,South,Tamil Nadu,Technology,Accessories,Headphones,6,2224.78,13348.68,8009.21,5339.47,Consumer
+ORD-00505,2023-07-07,CUST-0144,Sample Customer 144,East,West Bengal,Office Supplies,Printers,Printer Paper,3,532.71,1598.13,910.93,687.2,Home Office
+ORD-00506,2024-03-06,CUST-0079,Sample Customer 79,South,Karnataka,Technology,Accessories,Headphones,3,1833.08,5499.24,3299.54,2199.7,Corporate
+ORD-00507,2024-04-26,CUST-0031,Sample Customer 31,South,Tamil Nadu,Office Supplies,Stationery,Notebook,3,196.84,590.52,301.17,289.35,Consumer
+ORD-00508,2024-01-26,CUST-0175,Sample Customer 175,West,Maharashtra,Technology,Accessories,Headphones,5,1771.0,8855.0,5313.0,3542.0,Home Office
+ORD-00509,2023-12-17,CUST-0052,Sample Customer 52,South,Tamil Nadu,Technology,Phones,Smartphone,2,11584.83,23169.66,16913.85,6255.81,Corporate
+ORD-00510,2024-05-14,CUST-0021,Sample Customer 21,East,West Bengal,Furniture,Chairs,Office Chair,6,5423.74,32542.44,22454.28,10088.16,Corporate
+ORD-00511,2023-08-03,CUST-0071,Sample Customer 71,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,1,424.86,424.86,242.17,182.69,Consumer
+ORD-00512,2024-03-15,CUST-0163,Sample Customer 163,North,Uttar Pradesh,Technology,Phones,Smartphone,2,13445.44,26890.88,19630.34,7260.54,Corporate
+ORD-00513,2024-01-18,CUST-0052,Sample Customer 52,East,Odisha,Furniture,Tables,Desk,1,7751.0,7751.0,5890.76,1860.24,Consumer
+ORD-00514,2023-08-20,CUST-0064,Sample Customer 64,South,Karnataka,Technology,Phones,Smartphone,6,11065.23,66391.38,48465.71,17925.67,Home Office
+ORD-00515,2023-11-10,CUST-0151,Sample Customer 151,South,Tamil Nadu,Technology,Accessories,Headphones,1,1929.17,1929.17,1157.5,771.67,Consumer
+ORD-00516,2024-09-02,CUST-0134,Sample Customer 134,West,Gujarat,Furniture,Chairs,Office Chair,3,5919.68,17759.04,12253.74,5505.3,Home Office
+ORD-00517,2024-01-03,CUST-0126,Sample Customer 126,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,2,475.46,950.92,542.02,408.9,Consumer
+ORD-00518,2023-08-05,CUST-0034,Sample Customer 34,North,Uttar Pradesh,Technology,Phones,Smartphone,2,11923.94,23847.88,17408.95,6438.93,Home Office
+ORD-00519,2024-01-20,CUST-0010,Sample Customer 10,West,Gujarat,Technology,Phones,Smartphone,3,13822.27,41466.81,30270.77,11196.04,Home Office
+ORD-00520,2023-01-21,CUST-0168,Sample Customer 168,South,Karnataka,Office Supplies,Stationery,Notebook,1,208.67,208.67,106.42,102.25,Consumer
+ORD-00521,2024-04-30,CUST-0065,Sample Customer 65,West,Maharashtra,Furniture,Tables,Desk,4,7982.82,31931.28,24267.77,7663.51,Home Office
+ORD-00522,2024-03-06,CUST-0078,Sample Customer 78,North,Delhi,Office Supplies,Printers,Printer Paper,6,518.51,3111.06,1773.3,1337.76,Home Office
+ORD-00523,2023-04-18,CUST-0108,Sample Customer 108,West,Maharashtra,Office Supplies,Stationery,Notebook,5,210.98,1054.9,538.0,516.9,Home Office
+ORD-00524,2023-07-24,CUST-0156,Sample Customer 156,West,Maharashtra,Technology,Phones,Smartphone,1,12990.18,12990.18,9482.83,3507.35,Corporate
+ORD-00525,2024-07-15,CUST-0011,Sample Customer 11,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,4,468.36,1873.44,1067.86,805.58,Corporate
+ORD-00526,2023-04-02,CUST-0172,Sample Customer 172,North,Uttar Pradesh,Furniture,Chairs,Office Chair,2,5104.08,10208.16,7043.63,3164.53,Consumer
+ORD-00527,2023-09-20,CUST-0026,Sample Customer 26,East,West Bengal,Technology,Phones,Smartphone,5,11341.82,56709.1,41397.64,15311.46,Home Office
+ORD-00528,2023-06-28,CUST-0026,Sample Customer 26,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,5934.71,17804.13,12284.85,5519.28,Consumer
+ORD-00529,2023-04-08,CUST-0030,Sample Customer 30,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,3,487.92,1463.76,834.34,629.42,Consumer
+ORD-00530,2024-03-24,CUST-0092,Sample Customer 92,West,Gujarat,Office Supplies,Printers,Printer Paper,6,449.68,2698.08,1537.91,1160.17,Home Office
+ORD-00531,2024-02-14,CUST-0103,Sample Customer 103,South,Karnataka,Furniture,Chairs,Office Chair,3,5428.26,16284.78,11236.5,5048.28,Corporate
+ORD-00532,2023-06-20,CUST-0167,Sample Customer 167,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,4,543.89,2175.56,1240.07,935.49,Consumer
+ORD-00533,2024-05-09,CUST-0152,Sample Customer 152,North,Delhi,Technology,Accessories,Headphones,1,1948.64,1948.64,1169.18,779.46,Home Office
+ORD-00534,2023-01-30,CUST-0157,Sample Customer 157,East,West Bengal,Office Supplies,Stationery,Notebook,4,215.67,862.68,439.97,422.71,Home Office
+ORD-00535,2023-02-17,CUST-0113,Sample Customer 113,North,Uttar Pradesh,Furniture,Tables,Desk,1,10045.39,10045.39,7634.5,2410.89,Consumer
+ORD-00536,2024-08-13,CUST-0135,Sample Customer 135,South,Tamil Nadu,Technology,Phones,Smartphone,6,14435.39,86612.34,63227.01,23385.33,Home Office
+ORD-00537,2023-04-08,CUST-0159,Sample Customer 159,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,5,210.24,1051.2,536.11,515.09,Corporate
+ORD-00538,2023-06-02,CUST-0099,Sample Customer 99,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,6316.28,37897.68,26149.4,11748.28,Home Office
+ORD-00539,2024-05-22,CUST-0121,Sample Customer 121,West,Gujarat,Office Supplies,Printers,Printer Paper,2,499.83,999.66,569.81,429.85,Consumer
+ORD-00540,2023-02-21,CUST-0072,Sample Customer 72,West,Maharashtra,Furniture,Chairs,Office Chair,2,5694.66,11389.32,7858.63,3530.69,Home Office
+ORD-00541,2024-08-09,CUST-0114,Sample Customer 114,North,Uttar Pradesh,Furniture,Tables,Desk,2,7861.97,15723.94,11950.19,3773.75,Corporate
+ORD-00542,2024-10-31,CUST-0128,Sample Customer 128,West,Maharashtra,Furniture,Tables,Desk,3,7969.62,23908.86,18170.73,5738.13,Consumer
+ORD-00543,2023-04-04,CUST-0001,Sample Customer 1,West,Maharashtra,Furniture,Tables,Desk,1,9153.24,9153.24,6956.46,2196.78,Home Office
+ORD-00544,2024-01-08,CUST-0088,Sample Customer 88,South,Karnataka,Office Supplies,Printers,Printer Paper,6,492.44,2954.64,1684.14,1270.5,Consumer
+ORD-00545,2024-04-29,CUST-0154,Sample Customer 154,North,Uttar Pradesh,Furniture,Chairs,Office Chair,5,6480.27,32401.35,22356.93,10044.42,Home Office
+ORD-00546,2023-01-03,CUST-0057,Sample Customer 57,South,Tamil Nadu,Technology,Phones,Smartphone,1,14010.27,14010.27,10227.5,3782.77,Corporate
+ORD-00547,2023-02-16,CUST-0028,Sample Customer 28,South,Tamil Nadu,Office Supplies,Stationery,Notebook,5,191.47,957.35,488.25,469.1,Consumer
+ORD-00548,2023-09-18,CUST-0028,Sample Customer 28,East,West Bengal,Office Supplies,Printers,Printer Paper,6,532.17,3193.02,1820.02,1373.0,Home Office
+ORD-00549,2023-12-13,CUST-0049,Sample Customer 49,North,Delhi,Technology,Phones,Smartphone,4,11889.88,47559.52,34718.45,12841.07,Consumer
+ORD-00550,2024-04-13,CUST-0116,Sample Customer 116,East,West Bengal,Office Supplies,Printers,Printer Paper,6,512.3,3073.8,1752.07,1321.73,Home Office
+ORD-00551,2024-03-19,CUST-0142,Sample Customer 142,North,Uttar Pradesh,Technology,Phones,Smartphone,5,13920.16,69600.8,50808.58,18792.22,Home Office
+ORD-00552,2023-04-17,CUST-0033,Sample Customer 33,East,West Bengal,Office Supplies,Printers,Printer Paper,5,450.15,2250.75,1282.93,967.82,Corporate
+ORD-00553,2023-10-08,CUST-0064,Sample Customer 64,South,Tamil Nadu,Furniture,Tables,Desk,5,10121.83,50609.15,38462.95,12146.2,Corporate
+ORD-00554,2024-12-17,CUST-0155,Sample Customer 155,South,Tamil Nadu,Furniture,Tables,Desk,2,8022.19,16044.38,12193.73,3850.65,Home Office
+ORD-00555,2023-08-11,CUST-0162,Sample Customer 162,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,6,564.2,3385.2,1929.56,1455.64,Consumer
+ORD-00556,2024-12-28,CUST-0034,Sample Customer 34,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,3,562.05,1686.15,961.11,725.04,Home Office
+ORD-00557,2024-05-06,CUST-0144,Sample Customer 144,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,1,538.04,538.04,306.68,231.36,Home Office
+ORD-00558,2024-01-26,CUST-0007,Sample Customer 7,East,Odisha,Furniture,Tables,Desk,1,9060.36,9060.36,6885.87,2174.49,Consumer
+ORD-00559,2023-10-21,CUST-0042,Sample Customer 42,West,Gujarat,Technology,Accessories,Headphones,3,2149.04,6447.12,3868.27,2578.85,Home Office
+ORD-00560,2024-07-08,CUST-0053,Sample Customer 53,South,Karnataka,Technology,Phones,Smartphone,6,14107.91,84647.46,61792.65,22854.81,Consumer
+ORD-00561,2023-08-18,CUST-0144,Sample Customer 144,South,Tamil Nadu,Technology,Phones,Smartphone,5,14434.23,72171.15,52684.94,19486.21,Home Office
+ORD-00562,2023-02-18,CUST-0171,Sample Customer 171,East,West Bengal,Office Supplies,Stationery,Notebook,6,186.32,1117.92,570.14,547.78,Corporate
+ORD-00563,2023-01-14,CUST-0014,Sample Customer 14,East,Odisha,Office Supplies,Printers,Printer Paper,3,568.74,1706.22,972.55,733.67,Home Office
+ORD-00564,2024-12-22,CUST-0163,Sample Customer 163,South,Karnataka,Office Supplies,Stationery,Notebook,4,218.7,874.8,446.15,428.65,Home Office
+ORD-00565,2024-11-30,CUST-0046,Sample Customer 46,South,Karnataka,Office Supplies,Printers,Printer Paper,2,468.19,936.38,533.74,402.64,Consumer
+ORD-00566,2024-03-14,CUST-0011,Sample Customer 11,North,Delhi,Office Supplies,Printers,Printer Paper,5,442.02,2210.1,1259.76,950.34,Corporate
+ORD-00567,2023-12-05,CUST-0002,Sample Customer 2,South,Karnataka,Technology,Accessories,Headphones,5,2206.5,11032.5,6619.5,4413.0,Corporate
+ORD-00568,2024-09-22,CUST-0161,Sample Customer 161,North,Delhi,Technology,Accessories,Headphones,3,2057.1,6171.3,3702.78,2468.52,Home Office
+ORD-00569,2024-06-22,CUST-0082,Sample Customer 82,South,Tamil Nadu,Office Supplies,Stationery,Notebook,5,190.53,952.65,485.85,466.8,Consumer
+ORD-00570,2024-02-18,CUST-0138,Sample Customer 138,North,Delhi,Office Supplies,Stationery,Notebook,2,193.98,387.96,197.86,190.1,Consumer
+ORD-00571,2023-10-28,CUST-0093,Sample Customer 93,South,Karnataka,Technology,Accessories,Headphones,6,1898.18,11389.08,6833.45,4555.63,Consumer
+ORD-00572,2024-10-19,CUST-0062,Sample Customer 62,East,West Bengal,Technology,Phones,Smartphone,6,12398.47,74390.82,54305.3,20085.52,Home Office
+ORD-00573,2024-01-31,CUST-0030,Sample Customer 30,North,Delhi,Office Supplies,Printers,Printer Paper,3,481.24,1443.72,822.92,620.8,Corporate
+ORD-00574,2024-04-01,CUST-0131,Sample Customer 131,South,Karnataka,Office Supplies,Stationery,Notebook,3,199.85,599.55,305.77,293.78,Corporate
+ORD-00575,2023-04-09,CUST-0022,Sample Customer 22,West,Maharashtra,Office Supplies,Printers,Printer Paper,2,472.1,944.2,538.19,406.01,Consumer
+ORD-00576,2024-12-02,CUST-0055,Sample Customer 55,West,Gujarat,Technology,Accessories,Headphones,6,2076.67,12460.02,7476.01,4984.01,Corporate
+ORD-00577,2024-10-24,CUST-0112,Sample Customer 112,West,Gujarat,Office Supplies,Stationery,Notebook,6,221.6,1329.6,678.1,651.5,Consumer
+ORD-00578,2023-03-17,CUST-0023,Sample Customer 23,North,Delhi,Furniture,Tables,Desk,6,8544.68,51268.08,38963.74,12304.34,Consumer
+ORD-00579,2023-09-22,CUST-0059,Sample Customer 59,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,1,203.48,203.48,103.77,99.71,Corporate
+ORD-00580,2024-02-03,CUST-0005,Sample Customer 5,East,Odisha,Office Supplies,Printers,Printer Paper,4,488.97,1955.88,1114.85,841.03,Home Office
+ORD-00581,2023-02-16,CUST-0150,Sample Customer 150,West,Gujarat,Office Supplies,Printers,Printer Paper,6,516.72,3100.32,1767.18,1333.14,Home Office
+ORD-00582,2023-11-05,CUST-0176,Sample Customer 176,West,Maharashtra,Office Supplies,Stationery,Notebook,1,186.45,186.45,95.09,91.36,Home Office
+ORD-00583,2023-02-01,CUST-0170,Sample Customer 170,West,Maharashtra,Furniture,Tables,Desk,4,8715.84,34863.36,26496.15,8367.21,Corporate
+ORD-00584,2023-10-30,CUST-0140,Sample Customer 140,North,Delhi,Technology,Accessories,Headphones,6,1933.63,11601.78,6961.07,4640.71,Home Office
+ORD-00585,2024-07-20,CUST-0003,Sample Customer 3,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,6,521.15,3126.9,1782.33,1344.57,Home Office
+ORD-00586,2024-07-04,CUST-0101,Sample Customer 101,North,Delhi,Technology,Phones,Smartphone,1,13282.58,13282.58,9696.28,3586.3,Home Office
+ORD-00587,2023-08-05,CUST-0089,Sample Customer 89,West,Maharashtra,Technology,Accessories,Headphones,6,2143.79,12862.74,7717.64,5145.1,Corporate
+ORD-00588,2023-07-18,CUST-0065,Sample Customer 65,North,Delhi,Technology,Accessories,Headphones,2,2069.1,4138.2,2482.92,1655.28,Consumer
+ORD-00589,2023-10-25,CUST-0019,Sample Customer 19,North,Delhi,Office Supplies,Stationery,Notebook,4,207.64,830.56,423.59,406.97,Home Office
+ORD-00590,2023-12-05,CUST-0125,Sample Customer 125,West,Maharashtra,Technology,Phones,Smartphone,2,13878.73,27757.46,20262.95,7494.51,Corporate
+ORD-00591,2023-11-22,CUST-0050,Sample Customer 50,North,Delhi,Technology,Phones,Smartphone,3,13465.08,40395.24,29488.53,10906.71,Corporate
+ORD-00592,2023-06-06,CUST-0150,Sample Customer 150,East,Odisha,Office Supplies,Stationery,Notebook,6,187.4,1124.4,573.44,550.96,Home Office
+ORD-00593,2023-08-15,CUST-0064,Sample Customer 64,South,Tamil Nadu,Furniture,Tables,Desk,2,7662.19,15324.38,11646.53,3677.85,Home Office
+ORD-00594,2024-05-06,CUST-0085,Sample Customer 85,East,Odisha,Furniture,Chairs,Office Chair,2,6322.19,12644.38,8724.62,3919.76,Corporate
+ORD-00595,2024-10-23,CUST-0045,Sample Customer 45,East,Odisha,Furniture,Chairs,Office Chair,4,6091.99,24367.96,16813.89,7554.07,Home Office
+ORD-00596,2023-03-20,CUST-0161,Sample Customer 161,West,Maharashtra,Technology,Accessories,Headphones,5,1816.95,9084.75,5450.85,3633.9,Home Office
+ORD-00597,2024-08-15,CUST-0149,Sample Customer 149,West,Gujarat,Office Supplies,Stationery,Notebook,6,171.01,1026.06,523.29,502.77,Corporate
+ORD-00598,2024-04-28,CUST-0139,Sample Customer 139,North,Delhi,Office Supplies,Stationery,Notebook,3,201.6,604.8,308.45,296.35,Home Office
+ORD-00599,2023-10-25,CUST-0151,Sample Customer 151,North,Uttar Pradesh,Furniture,Tables,Desk,2,10055.76,20111.52,15284.76,4826.76,Consumer
+ORD-00600,2023-09-02,CUST-0170,Sample Customer 170,East,West Bengal,Furniture,Tables,Desk,3,9004.85,27014.55,20531.06,6483.49,Home Office
+ORD-00601,2024-11-06,CUST-0145,Sample Customer 145,North,Delhi,Furniture,Tables,Desk,2,8132.79,16265.58,12361.84,3903.74,Consumer
+ORD-00602,2023-03-06,CUST-0060,Sample Customer 60,East,Odisha,Technology,Phones,Smartphone,2,14018.66,28037.32,20467.24,7570.08,Corporate
+ORD-00603,2024-02-02,CUST-0093,Sample Customer 93,South,Karnataka,Technology,Phones,Smartphone,6,11855.51,71133.06,51927.13,19205.93,Corporate
+ORD-00604,2024-10-10,CUST-0134,Sample Customer 134,East,West Bengal,Technology,Phones,Smartphone,6,12312.93,73877.58,53930.63,19946.95,Corporate
+ORD-00605,2024-10-31,CUST-0151,Sample Customer 151,South,Karnataka,Furniture,Tables,Desk,6,8671.04,52026.24,39539.94,12486.3,Consumer
+ORD-00606,2024-05-13,CUST-0089,Sample Customer 89,South,Tamil Nadu,Technology,Accessories,Headphones,5,1942.53,9712.65,5827.59,3885.06,Corporate
+ORD-00607,2024-10-20,CUST-0132,Sample Customer 132,West,Gujarat,Furniture,Tables,Desk,2,8270.06,16540.12,12570.49,3969.63,Corporate
+ORD-00608,2024-11-07,CUST-0031,Sample Customer 31,North,Delhi,Technology,Accessories,Headphones,2,1916.38,3832.76,2299.66,1533.1,Consumer
+ORD-00609,2024-05-05,CUST-0123,Sample Customer 123,East,Odisha,Office Supplies,Printers,Printer Paper,1,496.23,496.23,282.85,213.38,Consumer
+ORD-00610,2024-08-29,CUST-0147,Sample Customer 147,North,Uttar Pradesh,Technology,Phones,Smartphone,2,11217.4,22434.8,16377.4,6057.4,Consumer
+ORD-00611,2023-07-04,CUST-0067,Sample Customer 67,North,Delhi,Office Supplies,Stationery,Notebook,2,172.49,344.98,175.94,169.04,Home Office
+ORD-00612,2023-03-29,CUST-0073,Sample Customer 73,East,West Bengal,Office Supplies,Printers,Printer Paper,6,523.21,3139.26,1789.38,1349.88,Consumer
+ORD-00613,2024-09-07,CUST-0106,Sample Customer 106,East,Odisha,Furniture,Tables,Desk,2,8241.37,16482.74,12526.88,3955.86,Consumer
+ORD-00614,2024-09-02,CUST-0117,Sample Customer 117,North,Uttar Pradesh,Technology,Accessories,Headphones,6,2110.3,12661.8,7597.08,5064.72,Home Office
+ORD-00615,2023-07-27,CUST-0005,Sample Customer 5,West,Gujarat,Furniture,Tables,Desk,4,8006.09,32024.36,24338.51,7685.85,Home Office
+ORD-00616,2024-09-06,CUST-0158,Sample Customer 158,East,West Bengal,Office Supplies,Stationery,Notebook,1,179.74,179.74,91.67,88.07,Consumer
+ORD-00617,2024-07-06,CUST-0155,Sample Customer 155,West,Gujarat,Furniture,Tables,Desk,6,8001.0,48006.0,36484.56,11521.44,Consumer
+ORD-00618,2023-08-23,CUST-0110,Sample Customer 110,East,Odisha,Furniture,Chairs,Office Chair,1,6354.7,6354.7,4384.74,1969.96,Corporate
+ORD-00619,2024-08-12,CUST-0179,Sample Customer 179,East,Odisha,Office Supplies,Stationery,Notebook,6,223.35,1340.1,683.45,656.65,Consumer
+ORD-00620,2023-10-18,CUST-0022,Sample Customer 22,East,West Bengal,Furniture,Chairs,Office Chair,4,6477.47,25909.88,17877.82,8032.06,Home Office
+ORD-00621,2024-08-14,CUST-0002,Sample Customer 2,East,Odisha,Technology,Accessories,Headphones,1,2124.43,2124.43,1274.66,849.77,Home Office
+ORD-00622,2024-02-23,CUST-0081,Sample Customer 81,West,Gujarat,Furniture,Tables,Desk,6,8203.72,49222.32,37408.96,11813.36,Corporate
+ORD-00623,2024-07-02,CUST-0067,Sample Customer 67,West,Gujarat,Furniture,Tables,Desk,6,9229.47,55376.82,42086.38,13290.44,Corporate
+ORD-00624,2024-07-19,CUST-0106,Sample Customer 106,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,4,537.17,2148.68,1224.75,923.93,Home Office
+ORD-00625,2023-11-11,CUST-0065,Sample Customer 65,East,West Bengal,Furniture,Chairs,Office Chair,5,6097.82,30489.1,21037.48,9451.62,Home Office
+ORD-00626,2023-05-02,CUST-0169,Sample Customer 169,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,2,552.14,1104.28,629.44,474.84,Home Office
+ORD-00627,2024-02-15,CUST-0131,Sample Customer 131,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,2,439.16,878.32,500.64,377.68,Corporate
+ORD-00628,2023-05-29,CUST-0024,Sample Customer 24,West,Gujarat,Furniture,Tables,Desk,6,7663.43,45980.58,34945.24,11035.34,Corporate
+ORD-00629,2024-09-15,CUST-0021,Sample Customer 21,East,West Bengal,Technology,Phones,Smartphone,3,11913.99,35741.97,26091.64,9650.33,Consumer
+ORD-00630,2023-02-28,CUST-0153,Sample Customer 153,East,Odisha,Office Supplies,Stationery,Notebook,6,200.25,1201.5,612.76,588.74,Consumer
+ORD-00631,2023-10-20,CUST-0133,Sample Customer 133,East,Odisha,Technology,Phones,Smartphone,2,14366.11,28732.22,20974.52,7757.7,Consumer
+ORD-00632,2023-09-02,CUST-0093,Sample Customer 93,West,Gujarat,Office Supplies,Stationery,Notebook,2,209.39,418.78,213.58,205.2,Home Office
+ORD-00633,2024-11-16,CUST-0091,Sample Customer 91,West,Gujarat,Technology,Phones,Smartphone,3,14089.64,42268.92,30856.31,11412.61,Corporate
+ORD-00634,2023-04-03,CUST-0018,Sample Customer 18,East,West Bengal,Office Supplies,Stationery,Notebook,1,213.14,213.14,108.7,104.44,Home Office
+ORD-00635,2024-04-10,CUST-0050,Sample Customer 50,South,Tamil Nadu,Furniture,Chairs,Office Chair,3,5506.41,16519.23,11398.27,5120.96,Corporate
+ORD-00636,2023-03-16,CUST-0144,Sample Customer 144,West,Maharashtra,Technology,Accessories,Headphones,4,2002.74,8010.96,4806.58,3204.38,Home Office
+ORD-00637,2024-08-11,CUST-0138,Sample Customer 138,South,Tamil Nadu,Technology,Phones,Smartphone,5,14780.03,73900.15,53947.11,19953.04,Corporate
+ORD-00638,2024-04-14,CUST-0087,Sample Customer 87,East,Odisha,Office Supplies,Stationery,Notebook,4,215.12,860.48,438.84,421.64,Home Office
+ORD-00639,2024-10-10,CUST-0098,Sample Customer 98,East,West Bengal,Furniture,Tables,Desk,1,8345.19,8345.19,6342.34,2002.85,Consumer
+ORD-00640,2024-12-18,CUST-0003,Sample Customer 3,North,Uttar Pradesh,Furniture,Tables,Desk,3,9043.56,27130.68,20619.32,6511.36,Corporate
+ORD-00641,2023-03-19,CUST-0088,Sample Customer 88,North,Uttar Pradesh,Technology,Phones,Smartphone,4,13676.37,54705.48,39935.0,14770.48,Home Office
+ORD-00642,2023-10-03,CUST-0147,Sample Customer 147,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,5492.5,16477.5,11369.47,5108.03,Consumer
+ORD-00643,2023-09-29,CUST-0062,Sample Customer 62,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,2,459.31,918.62,523.61,395.01,Consumer
+ORD-00644,2023-05-03,CUST-0028,Sample Customer 28,North,Delhi,Technology,Accessories,Headphones,5,1912.66,9563.3,5737.98,3825.32,Consumer
+ORD-00645,2024-09-27,CUST-0096,Sample Customer 96,East,West Bengal,Office Supplies,Stationery,Notebook,1,219.78,219.78,112.09,107.69,Corporate
+ORD-00646,2023-10-14,CUST-0131,Sample Customer 131,East,Odisha,Furniture,Tables,Desk,2,10306.72,20613.44,15666.21,4947.23,Corporate
+ORD-00647,2024-07-07,CUST-0123,Sample Customer 123,North,Delhi,Technology,Phones,Smartphone,5,14166.06,70830.3,51706.12,19124.18,Consumer
+ORD-00648,2024-12-16,CUST-0031,Sample Customer 31,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,2,492.59,985.18,561.55,423.63,Home Office
+ORD-00649,2024-01-24,CUST-0054,Sample Customer 54,East,Odisha,Office Supplies,Printers,Printer Paper,1,425.92,425.92,242.77,183.15,Home Office
+ORD-00650,2024-07-15,CUST-0048,Sample Customer 48,West,Maharashtra,Furniture,Chairs,Office Chair,5,6650.21,33251.05,22943.22,10307.83,Corporate
+ORD-00651,2024-05-25,CUST-0048,Sample Customer 48,North,Uttar Pradesh,Furniture,Tables,Desk,5,8575.41,42877.05,32586.56,10290.49,Corporate
+ORD-00652,2023-10-14,CUST-0103,Sample Customer 103,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,3,478.8,1436.4,818.75,617.65,Corporate
+ORD-00653,2023-10-04,CUST-0026,Sample Customer 26,North,Delhi,Office Supplies,Stationery,Notebook,6,182.8,1096.8,559.37,537.43,Consumer
+ORD-00654,2024-04-29,CUST-0039,Sample Customer 39,East,Odisha,Technology,Accessories,Headphones,2,2178.93,4357.86,2614.72,1743.14,Consumer
+ORD-00655,2024-06-13,CUST-0162,Sample Customer 162,North,Uttar Pradesh,Furniture,Tables,Desk,2,10336.87,20673.74,15712.04,4961.7,Home Office
+ORD-00656,2023-02-18,CUST-0146,Sample Customer 146,South,Tamil Nadu,Furniture,Chairs,Office Chair,3,6110.83,18332.49,12649.42,5683.07,Corporate
+ORD-00657,2024-10-06,CUST-0122,Sample Customer 122,West,Gujarat,Technology,Phones,Smartphone,2,14222.8,28445.6,20765.29,7680.31,Consumer
+ORD-00658,2023-09-21,CUST-0143,Sample Customer 143,East,Odisha,Furniture,Chairs,Office Chair,3,5747.59,17242.77,11897.51,5345.26,Corporate
+ORD-00659,2023-07-23,CUST-0156,Sample Customer 156,West,Maharashtra,Technology,Phones,Smartphone,3,14431.63,43294.89,31605.27,11689.62,Home Office
+ORD-00660,2024-04-02,CUST-0125,Sample Customer 125,North,Uttar Pradesh,Furniture,Chairs,Office Chair,3,6310.7,18932.1,13063.15,5868.95,Consumer
+ORD-00661,2024-10-17,CUST-0043,Sample Customer 43,East,Odisha,Furniture,Tables,Desk,6,10231.67,61390.02,46656.42,14733.6,Corporate
+ORD-00662,2023-11-18,CUST-0059,Sample Customer 59,East,Odisha,Technology,Phones,Smartphone,1,11680.9,11680.9,8527.06,3153.84,Corporate
+ORD-00663,2024-01-07,CUST-0114,Sample Customer 114,South,Tamil Nadu,Office Supplies,Stationery,Notebook,6,192.76,1156.56,589.85,566.71,Home Office
+ORD-00664,2023-08-29,CUST-0033,Sample Customer 33,East,Odisha,Technology,Accessories,Headphones,2,2211.42,4422.84,2653.7,1769.14,Home Office
+ORD-00665,2023-03-07,CUST-0025,Sample Customer 25,South,Karnataka,Technology,Accessories,Headphones,2,1937.26,3874.52,2324.71,1549.81,Corporate
+ORD-00666,2023-04-17,CUST-0022,Sample Customer 22,West,Gujarat,Furniture,Tables,Desk,5,9714.41,48572.05,36914.76,11657.29,Corporate
+ORD-00667,2023-10-18,CUST-0064,Sample Customer 64,North,Delhi,Office Supplies,Printers,Printer Paper,4,470.46,1881.84,1072.65,809.19,Corporate
+ORD-00668,2024-01-01,CUST-0170,Sample Customer 170,North,Delhi,Office Supplies,Stationery,Notebook,2,170.86,341.72,174.28,167.44,Corporate
+ORD-00669,2024-12-15,CUST-0035,Sample Customer 35,East,Odisha,Office Supplies,Stationery,Notebook,3,201.9,605.7,308.91,296.79,Home Office
+ORD-00670,2024-03-21,CUST-0145,Sample Customer 145,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,6,519.34,3116.04,1776.14,1339.9,Home Office
+ORD-00671,2024-03-28,CUST-0023,Sample Customer 23,South,Tamil Nadu,Furniture,Tables,Desk,5,8262.33,41311.65,31396.85,9914.8,Corporate
+ORD-00672,2024-06-19,CUST-0001,Sample Customer 1,South,Tamil Nadu,Furniture,Chairs,Office Chair,2,5645.49,11290.98,7790.78,3500.2,Consumer
+ORD-00673,2024-05-03,CUST-0126,Sample Customer 126,South,Tamil Nadu,Furniture,Tables,Desk,5,7671.6,38358.0,29152.08,9205.92,Corporate
+ORD-00674,2024-07-15,CUST-0002,Sample Customer 2,West,Maharashtra,Furniture,Chairs,Office Chair,5,5515.27,27576.35,19027.68,8548.67,Corporate
+ORD-00675,2024-10-23,CUST-0042,Sample Customer 42,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,4,192.72,770.88,393.15,377.73,Corporate
+ORD-00676,2024-06-13,CUST-0062,Sample Customer 62,East,West Bengal,Furniture,Chairs,Office Chair,1,5859.05,5859.05,4042.74,1816.31,Home Office
+ORD-00677,2024-02-27,CUST-0069,Sample Customer 69,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,6,503.78,3022.68,1722.93,1299.75,Consumer
+ORD-00678,2024-09-24,CUST-0117,Sample Customer 117,West,Gujarat,Technology,Accessories,Headphones,3,1765.33,5295.99,3177.59,2118.4,Corporate
+ORD-00679,2024-07-01,CUST-0013,Sample Customer 13,South,Tamil Nadu,Technology,Accessories,Headphones,3,1710.78,5132.34,3079.4,2052.94,Consumer
+ORD-00680,2023-01-09,CUST-0113,Sample Customer 113,North,Delhi,Furniture,Chairs,Office Chair,3,5324.18,15972.54,11021.05,4951.49,Consumer
+ORD-00681,2023-11-16,CUST-0108,Sample Customer 108,West,Gujarat,Technology,Phones,Smartphone,4,11896.12,47584.48,34736.67,12847.81,Corporate
+ORD-00682,2023-02-27,CUST-0038,Sample Customer 38,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,1,473.59,473.59,269.95,203.64,Corporate
+ORD-00683,2024-01-26,CUST-0065,Sample Customer 65,East,West Bengal,Office Supplies,Stationery,Notebook,4,179.99,719.96,367.18,352.78,Consumer
+ORD-00684,2023-07-23,CUST-0009,Sample Customer 9,West,Gujarat,Furniture,Tables,Desk,4,8316.41,33265.64,25281.89,7983.75,Corporate
+ORD-00685,2023-11-27,CUST-0080,Sample Customer 80,West,Gujarat,Furniture,Tables,Desk,4,9488.84,37955.36,28846.07,9109.29,Consumer
+ORD-00686,2024-01-05,CUST-0051,Sample Customer 51,West,Gujarat,Furniture,Chairs,Office Chair,4,6248.29,24993.16,17245.28,7747.88,Consumer
+ORD-00687,2023-06-21,CUST-0004,Sample Customer 4,North,Delhi,Technology,Accessories,Headphones,6,1959.52,11757.12,7054.27,4702.85,Corporate
+ORD-00688,2024-12-08,CUST-0149,Sample Customer 149,West,Maharashtra,Technology,Accessories,Headphones,1,2280.16,2280.16,1368.1,912.06,Corporate
+ORD-00689,2024-12-03,CUST-0024,Sample Customer 24,North,Uttar Pradesh,Technology,Phones,Smartphone,2,11664.13,23328.26,17029.63,6298.63,Home Office
+ORD-00690,2024-07-03,CUST-0180,Sample Customer 180,South,Karnataka,Technology,Phones,Smartphone,3,13562.8,40688.4,29702.53,10985.87,Consumer
+ORD-00691,2023-12-22,CUST-0166,Sample Customer 166,North,Uttar Pradesh,Technology,Accessories,Headphones,3,2287.86,6863.58,4118.15,2745.43,Corporate
+ORD-00692,2023-09-14,CUST-0035,Sample Customer 35,North,Delhi,Office Supplies,Printers,Printer Paper,4,477.77,1911.08,1089.32,821.76,Consumer
+ORD-00693,2023-07-14,CUST-0126,Sample Customer 126,East,Odisha,Office Supplies,Stationery,Notebook,3,201.55,604.65,308.37,296.28,Home Office
+ORD-00694,2024-07-21,CUST-0154,Sample Customer 154,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,5942.12,35652.72,24600.38,11052.34,Consumer
+ORD-00695,2024-01-11,CUST-0139,Sample Customer 139,West,Gujarat,Furniture,Tables,Desk,3,9861.33,29583.99,22483.83,7100.16,Corporate
+ORD-00696,2024-01-08,CUST-0159,Sample Customer 159,West,Maharashtra,Office Supplies,Printers,Printer Paper,2,556.32,1112.64,634.2,478.44,Home Office
+ORD-00697,2024-02-01,CUST-0138,Sample Customer 138,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,1,522.7,522.7,297.94,224.76,Consumer
+ORD-00698,2023-11-26,CUST-0165,Sample Customer 165,East,West Bengal,Office Supplies,Stationery,Notebook,3,188.41,565.23,288.27,276.96,Consumer
+ORD-00699,2023-07-26,CUST-0009,Sample Customer 9,West,Gujarat,Technology,Phones,Smartphone,2,11745.79,23491.58,17148.85,6342.73,Consumer
+ORD-00700,2024-11-04,CUST-0100,Sample Customer 100,East,West Bengal,Technology,Phones,Smartphone,1,13275.93,13275.93,9691.43,3584.5,Corporate
+ORD-00701,2023-01-14,CUST-0019,Sample Customer 19,South,Karnataka,Furniture,Chairs,Office Chair,2,6189.68,12379.36,8541.76,3837.6,Consumer
+ORD-00702,2024-03-01,CUST-0143,Sample Customer 143,East,West Bengal,Furniture,Tables,Desk,6,7813.02,46878.12,35627.37,11250.75,Corporate
+ORD-00703,2023-03-21,CUST-0078,Sample Customer 78,West,Maharashtra,Office Supplies,Stationery,Notebook,1,212.99,212.99,108.62,104.37,Consumer
+ORD-00704,2023-07-17,CUST-0049,Sample Customer 49,West,Gujarat,Office Supplies,Printers,Printer Paper,2,503.74,1007.48,574.26,433.22,Home Office
+ORD-00705,2024-10-15,CUST-0028,Sample Customer 28,North,Delhi,Office Supplies,Stationery,Notebook,6,202.47,1214.82,619.56,595.26,Home Office
+ORD-00706,2023-06-20,CUST-0027,Sample Customer 27,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,6,488.08,2928.48,1669.23,1259.25,Consumer
+ORD-00707,2024-03-29,CUST-0154,Sample Customer 154,East,Odisha,Office Supplies,Printers,Printer Paper,2,504.07,1008.14,574.64,433.5,Corporate
+ORD-00708,2023-11-28,CUST-0111,Sample Customer 111,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,6474.45,25897.8,17869.48,8028.32,Home Office
+ORD-00709,2024-01-04,CUST-0066,Sample Customer 66,North,Delhi,Furniture,Tables,Desk,5,10149.47,50747.35,38567.99,12179.36,Corporate
+ORD-00710,2024-09-02,CUST-0073,Sample Customer 73,East,Odisha,Technology,Phones,Smartphone,6,11184.32,67105.92,48987.32,18118.6,Consumer
+ORD-00711,2023-11-19,CUST-0055,Sample Customer 55,North,Uttar Pradesh,Technology,Phones,Smartphone,3,14887.99,44663.97,32604.7,12059.27,Consumer
+ORD-00712,2023-05-22,CUST-0040,Sample Customer 40,South,Karnataka,Technology,Phones,Smartphone,1,12844.45,12844.45,9376.45,3468.0,Corporate
+ORD-00713,2024-08-07,CUST-0024,Sample Customer 24,South,Karnataka,Technology,Accessories,Headphones,3,2185.55,6556.65,3933.99,2622.66,Corporate
+ORD-00714,2024-05-14,CUST-0045,Sample Customer 45,North,Delhi,Office Supplies,Printers,Printer Paper,3,542.85,1628.55,928.27,700.28,Home Office
+ORD-00715,2023-03-22,CUST-0098,Sample Customer 98,West,Maharashtra,Technology,Phones,Smartphone,6,14201.44,85208.64,62202.31,23006.33,Consumer
+ORD-00716,2023-08-21,CUST-0031,Sample Customer 31,South,Tamil Nadu,Furniture,Tables,Desk,4,10160.54,40642.16,30888.04,9754.12,Home Office
+ORD-00717,2024-07-06,CUST-0082,Sample Customer 82,West,Maharashtra,Technology,Phones,Smartphone,3,13094.09,39282.27,28676.06,10606.21,Home Office
+ORD-00718,2024-11-20,CUST-0013,Sample Customer 13,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,6,182.33,1093.98,557.93,536.05,Home Office
+ORD-00719,2024-03-18,CUST-0057,Sample Customer 57,East,Odisha,Office Supplies,Stationery,Notebook,5,199.28,996.4,508.16,488.24,Corporate
+ORD-00720,2023-02-20,CUST-0147,Sample Customer 147,East,West Bengal,Technology,Accessories,Headphones,3,1748.65,5245.95,3147.57,2098.38,Home Office
+ORD-00721,2023-05-14,CUST-0179,Sample Customer 179,East,Odisha,Technology,Phones,Smartphone,4,13006.11,52024.44,37977.84,14046.6,Consumer
+ORD-00722,2024-07-28,CUST-0051,Sample Customer 51,East,West Bengal,Furniture,Tables,Desk,4,9410.03,37640.12,28606.49,9033.63,Home Office
+ORD-00723,2024-12-02,CUST-0083,Sample Customer 83,North,Delhi,Technology,Phones,Smartphone,3,14078.33,42234.99,30831.54,11403.45,Home Office
+ORD-00724,2023-07-15,CUST-0090,Sample Customer 90,West,Gujarat,Office Supplies,Printers,Printer Paper,4,487.55,1950.2,1111.61,838.59,Corporate
+ORD-00725,2024-03-28,CUST-0158,Sample Customer 158,South,Karnataka,Furniture,Chairs,Office Chair,2,6876.63,13753.26,9489.75,4263.51,Home Office
+ORD-00726,2023-06-09,CUST-0096,Sample Customer 96,North,Uttar Pradesh,Technology,Phones,Smartphone,2,11827.86,23655.72,17268.68,6387.04,Home Office
+ORD-00727,2023-06-01,CUST-0159,Sample Customer 159,West,Gujarat,Office Supplies,Printers,Printer Paper,1,460.53,460.53,262.5,198.03,Corporate
+ORD-00728,2023-01-24,CUST-0121,Sample Customer 121,West,Maharashtra,Office Supplies,Printers,Printer Paper,1,469.83,469.83,267.8,202.03,Corporate
+ORD-00729,2024-07-15,CUST-0067,Sample Customer 67,North,Delhi,Technology,Accessories,Headphones,5,2012.95,10064.75,6038.85,4025.9,Corporate
+ORD-00730,2023-02-14,CUST-0135,Sample Customer 135,North,Delhi,Furniture,Tables,Desk,5,10095.19,50475.95,38361.72,12114.23,Corporate
+ORD-00731,2023-10-05,CUST-0159,Sample Customer 159,North,Delhi,Furniture,Chairs,Office Chair,2,6519.45,13038.9,8996.84,4042.06,Consumer
+ORD-00732,2024-11-06,CUST-0170,Sample Customer 170,East,West Bengal,Technology,Phones,Smartphone,4,13624.41,54497.64,39783.28,14714.36,Corporate
+ORD-00733,2024-06-04,CUST-0098,Sample Customer 98,West,Gujarat,Furniture,Chairs,Office Chair,6,5794.78,34768.68,23990.39,10778.29,Home Office
+ORD-00734,2023-07-23,CUST-0048,Sample Customer 48,West,Maharashtra,Furniture,Tables,Desk,5,9084.2,45421.0,34519.96,10901.04,Home Office
+ORD-00735,2023-12-08,CUST-0079,Sample Customer 79,East,West Bengal,Technology,Phones,Smartphone,2,14645.73,29291.46,21382.77,7908.69,Corporate
+ORD-00736,2024-10-02,CUST-0091,Sample Customer 91,East,West Bengal,Technology,Phones,Smartphone,3,13717.76,41153.28,30041.89,11111.39,Corporate
+ORD-00737,2023-01-31,CUST-0100,Sample Customer 100,North,Uttar Pradesh,Technology,Phones,Smartphone,6,12054.02,72324.12,52796.61,19527.51,Home Office
+ORD-00738,2023-05-21,CUST-0169,Sample Customer 169,South,Karnataka,Technology,Accessories,Headphones,3,2237.19,6711.57,4026.94,2684.63,Consumer
+ORD-00739,2023-11-16,CUST-0110,Sample Customer 110,East,West Bengal,Furniture,Tables,Desk,2,9195.8,18391.6,13977.62,4413.98,Home Office
+ORD-00740,2024-08-17,CUST-0036,Sample Customer 36,South,Tamil Nadu,Office Supplies,Stationery,Notebook,2,181.49,362.98,185.12,177.86,Home Office
+ORD-00741,2023-05-19,CUST-0135,Sample Customer 135,North,Delhi,Furniture,Chairs,Office Chair,6,6368.18,38209.08,26364.27,11844.81,Corporate
+ORD-00742,2023-07-08,CUST-0031,Sample Customer 31,North,Delhi,Furniture,Chairs,Office Chair,1,6102.2,6102.2,4210.52,1891.68,Corporate
+ORD-00743,2024-03-29,CUST-0078,Sample Customer 78,North,Delhi,Furniture,Chairs,Office Chair,4,6829.01,27316.04,18848.07,8467.97,Home Office
+ORD-00744,2024-09-18,CUST-0007,Sample Customer 7,South,Karnataka,Technology,Accessories,Headphones,1,1778.04,1778.04,1066.82,711.22,Home Office
+ORD-00745,2024-01-03,CUST-0007,Sample Customer 7,South,Karnataka,Office Supplies,Stationery,Notebook,2,182.94,365.88,186.6,179.28,Consumer
+ORD-00746,2024-01-18,CUST-0167,Sample Customer 167,East,West Bengal,Office Supplies,Stationery,Notebook,5,197.14,985.7,502.71,482.99,Consumer
+ORD-00747,2023-02-03,CUST-0058,Sample Customer 58,East,Odisha,Furniture,Tables,Desk,2,8091.32,16182.64,12298.81,3883.83,Corporate
+ORD-00748,2023-07-29,CUST-0052,Sample Customer 52,West,Maharashtra,Furniture,Tables,Desk,2,9653.32,19306.64,14673.05,4633.59,Consumer
+ORD-00749,2023-09-10,CUST-0118,Sample Customer 118,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,4,210.22,840.88,428.85,412.03,Corporate
+ORD-00750,2024-02-08,CUST-0081,Sample Customer 81,East,West Bengal,Office Supplies,Stationery,Notebook,6,218.36,1310.16,668.18,641.98,Home Office
+ORD-00751,2023-09-09,CUST-0011,Sample Customer 11,West,Gujarat,Furniture,Tables,Desk,4,9881.83,39527.32,30040.76,9486.56,Home Office
+ORD-00752,2023-02-20,CUST-0162,Sample Customer 162,East,West Bengal,Office Supplies,Stationery,Notebook,4,199.96,799.84,407.92,391.92,Consumer
+ORD-00753,2024-04-17,CUST-0074,Sample Customer 74,South,Tamil Nadu,Furniture,Tables,Desk,3,9737.85,29213.55,22202.3,7011.25,Consumer
+ORD-00754,2024-04-19,CUST-0037,Sample Customer 37,East,Odisha,Office Supplies,Stationery,Notebook,1,210.34,210.34,107.27,103.07,Home Office
+ORD-00755,2024-12-13,CUST-0150,Sample Customer 150,East,West Bengal,Office Supplies,Printers,Printer Paper,5,441.09,2205.45,1257.11,948.34,Home Office
+ORD-00756,2024-04-09,CUST-0046,Sample Customer 46,North,Uttar Pradesh,Furniture,Tables,Desk,3,8866.41,26599.23,20215.41,6383.82,Home Office
+ORD-00757,2024-12-29,CUST-0167,Sample Customer 167,North,Uttar Pradesh,Technology,Phones,Smartphone,3,12312.94,36938.82,26965.34,9973.48,Consumer
+ORD-00758,2023-03-29,CUST-0093,Sample Customer 93,West,Gujarat,Technology,Phones,Smartphone,6,12801.67,76810.02,56071.31,20738.71,Home Office
+ORD-00759,2023-12-10,CUST-0044,Sample Customer 44,East,West Bengal,Furniture,Tables,Desk,5,8676.67,43383.35,32971.35,10412.0,Home Office
+ORD-00760,2024-03-05,CUST-0014,Sample Customer 14,North,Delhi,Technology,Accessories,Headphones,2,2160.41,4320.82,2592.49,1728.33,Corporate
+ORD-00761,2023-07-27,CUST-0034,Sample Customer 34,South,Tamil Nadu,Furniture,Chairs,Office Chair,6,5424.35,32546.1,22456.81,10089.29,Consumer
+ORD-00762,2023-01-06,CUST-0140,Sample Customer 140,South,Karnataka,Furniture,Tables,Desk,4,9958.5,39834.0,30273.84,9560.16,Home Office
+ORD-00763,2024-02-24,CUST-0117,Sample Customer 117,East,West Bengal,Technology,Accessories,Headphones,5,2094.63,10473.15,6283.89,4189.26,Corporate
+ORD-00764,2024-07-24,CUST-0161,Sample Customer 161,West,Gujarat,Technology,Accessories,Headphones,5,1865.93,9329.65,5597.79,3731.86,Consumer
+ORD-00765,2023-05-29,CUST-0010,Sample Customer 10,West,Gujarat,Technology,Accessories,Headphones,1,2090.92,2090.92,1254.55,836.37,Consumer
+ORD-00766,2023-06-15,CUST-0046,Sample Customer 46,South,Tamil Nadu,Technology,Phones,Smartphone,1,11473.78,11473.78,8375.86,3097.92,Home Office
+ORD-00767,2023-04-06,CUST-0010,Sample Customer 10,South,Karnataka,Furniture,Tables,Desk,6,9212.19,55273.14,42007.59,13265.55,Corporate
+ORD-00768,2023-03-08,CUST-0141,Sample Customer 141,South,Tamil Nadu,Furniture,Tables,Desk,1,9696.72,9696.72,7369.51,2327.21,Corporate
+ORD-00769,2024-06-23,CUST-0085,Sample Customer 85,East,West Bengal,Technology,Phones,Smartphone,6,14400.58,86403.48,63074.54,23328.94,Corporate
+ORD-00770,2024-06-25,CUST-0162,Sample Customer 162,North,Delhi,Office Supplies,Stationery,Notebook,1,175.68,175.68,89.6,86.08,Consumer
+ORD-00771,2024-06-22,CUST-0067,Sample Customer 67,East,Odisha,Furniture,Tables,Desk,5,9937.95,49689.75,37764.21,11925.54,Home Office
+ORD-00772,2024-05-24,CUST-0162,Sample Customer 162,South,Karnataka,Office Supplies,Stationery,Notebook,5,198.78,993.9,506.89,487.01,Corporate
+ORD-00773,2023-05-02,CUST-0001,Sample Customer 1,North,Delhi,Office Supplies,Printers,Printer Paper,3,570.74,1712.22,975.97,736.25,Consumer
+ORD-00774,2024-02-28,CUST-0107,Sample Customer 107,East,West Bengal,Office Supplies,Printers,Printer Paper,2,543.84,1087.68,619.98,467.7,Consumer
+ORD-00775,2023-07-26,CUST-0164,Sample Customer 164,South,Tamil Nadu,Office Supplies,Stationery,Notebook,6,181.83,1090.98,556.4,534.58,Home Office
+ORD-00776,2023-11-28,CUST-0141,Sample Customer 141,South,Tamil Nadu,Technology,Phones,Smartphone,3,12220.17,36660.51,26762.17,9898.34,Consumer
+ORD-00777,2023-01-30,CUST-0158,Sample Customer 158,West,Maharashtra,Furniture,Chairs,Office Chair,4,6402.85,25611.4,17671.87,7939.53,Consumer
+ORD-00778,2023-02-06,CUST-0122,Sample Customer 122,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,5961.4,35768.4,24680.2,11088.2,Home Office
+ORD-00779,2023-12-10,CUST-0138,Sample Customer 138,North,Uttar Pradesh,Technology,Accessories,Headphones,6,1975.38,11852.28,7111.37,4740.91,Corporate
+ORD-00780,2023-11-20,CUST-0174,Sample Customer 174,East,West Bengal,Office Supplies,Stationery,Notebook,3,202.88,608.64,310.41,298.23,Home Office
+ORD-00781,2023-03-09,CUST-0091,Sample Customer 91,West,Gujarat,Office Supplies,Stationery,Notebook,6,188.95,1133.7,578.19,555.51,Consumer
+ORD-00782,2024-08-07,CUST-0043,Sample Customer 43,South,Karnataka,Furniture,Chairs,Office Chair,4,6226.68,24906.72,17185.64,7721.08,Home Office
+ORD-00783,2024-12-23,CUST-0079,Sample Customer 79,East,West Bengal,Office Supplies,Stationery,Notebook,1,220.77,220.77,112.59,108.18,Corporate
+ORD-00784,2024-01-16,CUST-0061,Sample Customer 61,West,Maharashtra,Furniture,Tables,Desk,1,8991.05,8991.05,6833.2,2157.85,Corporate
+ORD-00785,2023-02-08,CUST-0096,Sample Customer 96,South,Karnataka,Office Supplies,Stationery,Notebook,3,179.6,538.8,274.79,264.01,Consumer
+ORD-00786,2023-06-07,CUST-0129,Sample Customer 129,West,Maharashtra,Office Supplies,Stationery,Notebook,1,216.85,216.85,110.59,106.26,Consumer
+ORD-00787,2023-05-27,CUST-0084,Sample Customer 84,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,5,470.61,2353.05,1341.24,1011.81,Consumer
+ORD-00788,2023-04-29,CUST-0134,Sample Customer 134,North,Delhi,Office Supplies,Printers,Printer Paper,1,492.92,492.92,280.96,211.96,Consumer
+ORD-00789,2024-04-23,CUST-0086,Sample Customer 86,South,Karnataka,Office Supplies,Printers,Printer Paper,5,554.67,2773.35,1580.81,1192.54,Consumer
+ORD-00790,2023-08-03,CUST-0164,Sample Customer 164,West,Maharashtra,Technology,Phones,Smartphone,5,14007.05,70035.25,51125.73,18909.52,Corporate
+ORD-00791,2024-11-18,CUST-0113,Sample Customer 113,North,Delhi,Furniture,Chairs,Office Chair,3,6057.09,18171.27,12538.18,5633.09,Consumer
+ORD-00792,2024-07-27,CUST-0160,Sample Customer 160,South,Karnataka,Technology,Accessories,Headphones,3,1767.79,5303.37,3182.02,2121.35,Home Office
+ORD-00793,2023-05-25,CUST-0070,Sample Customer 70,West,Gujarat,Office Supplies,Stationery,Notebook,3,201.95,605.85,308.98,296.87,Home Office
+ORD-00794,2024-07-07,CUST-0087,Sample Customer 87,South,Karnataka,Technology,Accessories,Headphones,1,1885.88,1885.88,1131.53,754.35,Corporate
+ORD-00795,2023-04-19,CUST-0013,Sample Customer 13,West,Gujarat,Technology,Phones,Smartphone,4,14571.72,58286.88,42549.42,15737.46,Corporate
+ORD-00796,2024-08-29,CUST-0153,Sample Customer 153,West,Gujarat,Furniture,Tables,Desk,4,8132.35,32529.4,24722.34,7807.06,Home Office
+ORD-00797,2024-06-30,CUST-0172,Sample Customer 172,East,Odisha,Furniture,Chairs,Office Chair,3,6570.3,19710.9,13600.52,6110.38,Consumer
+ORD-00798,2023-11-14,CUST-0117,Sample Customer 117,East,West Bengal,Technology,Phones,Smartphone,6,12875.29,77251.74,56393.77,20857.97,Home Office
+ORD-00799,2023-09-22,CUST-0158,Sample Customer 158,East,Odisha,Technology,Accessories,Headphones,2,1785.34,3570.68,2142.41,1428.27,Corporate
+ORD-00800,2024-04-09,CUST-0084,Sample Customer 84,East,West Bengal,Office Supplies,Printers,Printer Paper,6,473.6,2841.6,1619.71,1221.89,Corporate
+ORD-00801,2023-06-24,CUST-0119,Sample Customer 119,West,Gujarat,Furniture,Tables,Desk,1,8597.93,8597.93,6534.43,2063.5,Corporate
+ORD-00802,2023-11-30,CUST-0028,Sample Customer 28,South,Karnataka,Office Supplies,Stationery,Notebook,1,193.37,193.37,98.62,94.75,Home Office
+ORD-00803,2023-09-02,CUST-0106,Sample Customer 106,West,Maharashtra,Office Supplies,Stationery,Notebook,4,193.08,772.32,393.88,378.44,Home Office
+ORD-00804,2024-12-11,CUST-0054,Sample Customer 54,North,Delhi,Furniture,Tables,Desk,4,7827.49,31309.96,23795.57,7514.39,Home Office
+ORD-00805,2023-06-27,CUST-0061,Sample Customer 61,East,Odisha,Office Supplies,Stationery,Notebook,3,201.66,604.98,308.54,296.44,Home Office
+ORD-00806,2024-07-22,CUST-0084,Sample Customer 84,West,Maharashtra,Technology,Phones,Smartphone,5,13373.67,66868.35,48813.9,18054.45,Consumer
+ORD-00807,2024-12-02,CUST-0028,Sample Customer 28,East,West Bengal,Furniture,Chairs,Office Chair,4,5224.42,20897.68,14419.4,6478.28,Home Office
+ORD-00808,2023-08-11,CUST-0024,Sample Customer 24,East,Odisha,Furniture,Tables,Desk,6,9431.4,56588.4,43007.18,13581.22,Consumer
+ORD-00809,2024-02-04,CUST-0075,Sample Customer 75,West,Gujarat,Office Supplies,Printers,Printer Paper,2,491.96,983.92,560.83,423.09,Home Office
+ORD-00810,2024-08-06,CUST-0077,Sample Customer 77,East,West Bengal,Technology,Accessories,Headphones,6,2225.34,13352.04,8011.22,5340.82,Home Office
+ORD-00811,2023-01-09,CUST-0150,Sample Customer 150,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,3,572.4,1717.2,978.8,738.4,Home Office
+ORD-00812,2023-02-24,CUST-0141,Sample Customer 141,East,West Bengal,Furniture,Chairs,Office Chair,1,5763.64,5763.64,3976.91,1786.73,Consumer
+ORD-00813,2024-08-27,CUST-0180,Sample Customer 180,South,Karnataka,Furniture,Chairs,Office Chair,1,5522.51,5522.51,3810.53,1711.98,Corporate
+ORD-00814,2024-11-09,CUST-0055,Sample Customer 55,South,Tamil Nadu,Furniture,Tables,Desk,4,8824.03,35296.12,26825.05,8471.07,Consumer
+ORD-00815,2024-03-03,CUST-0093,Sample Customer 93,East,West Bengal,Technology,Accessories,Headphones,5,1929.79,9648.95,5789.37,3859.58,Consumer
+ORD-00816,2023-05-28,CUST-0005,Sample Customer 5,South,Karnataka,Technology,Accessories,Headphones,1,1742.18,1742.18,1045.31,696.87,Home Office
+ORD-00817,2024-04-11,CUST-0107,Sample Customer 107,East,Odisha,Technology,Accessories,Headphones,1,1781.44,1781.44,1068.86,712.58,Home Office
+ORD-00818,2024-01-29,CUST-0116,Sample Customer 116,East,West Bengal,Furniture,Tables,Desk,5,8794.16,43970.8,33417.81,10552.99,Corporate
+ORD-00819,2023-08-31,CUST-0128,Sample Customer 128,North,Delhi,Furniture,Tables,Desk,5,7669.21,38346.05,29143.0,9203.05,Home Office
+ORD-00820,2024-08-04,CUST-0010,Sample Customer 10,South,Tamil Nadu,Office Supplies,Stationery,Notebook,5,191.06,955.3,487.2,468.1,Corporate
+ORD-00821,2023-05-26,CUST-0021,Sample Customer 21,South,Karnataka,Office Supplies,Stationery,Notebook,4,226.57,906.28,462.2,444.08,Home Office
+ORD-00822,2023-04-01,CUST-0157,Sample Customer 157,South,Tamil Nadu,Office Supplies,Stationery,Notebook,1,200.39,200.39,102.2,98.19,Consumer
+ORD-00823,2023-11-16,CUST-0149,Sample Customer 149,East,West Bengal,Office Supplies,Printers,Printer Paper,6,504.87,3029.22,1726.66,1302.56,Home Office
+ORD-00824,2024-04-25,CUST-0132,Sample Customer 132,West,Maharashtra,Office Supplies,Stationery,Notebook,1,197.14,197.14,100.54,96.6,Home Office
+ORD-00825,2024-12-12,CUST-0010,Sample Customer 10,South,Tamil Nadu,Furniture,Chairs,Office Chair,3,5619.64,16858.92,11632.65,5226.27,Home Office
+ORD-00826,2024-08-09,CUST-0044,Sample Customer 44,South,Tamil Nadu,Technology,Phones,Smartphone,6,12894.33,77365.98,56477.17,20888.81,Consumer
+ORD-00827,2023-03-20,CUST-0130,Sample Customer 130,South,Karnataka,Furniture,Chairs,Office Chair,4,5247.64,20990.56,14483.49,6507.07,Corporate
+ORD-00828,2023-01-15,CUST-0066,Sample Customer 66,South,Karnataka,Office Supplies,Stationery,Notebook,3,185.58,556.74,283.94,272.8,Home Office
+ORD-00829,2024-01-14,CUST-0115,Sample Customer 115,West,Gujarat,Office Supplies,Stationery,Notebook,6,178.17,1069.02,545.2,523.82,Consumer
+ORD-00830,2023-12-18,CUST-0009,Sample Customer 9,South,Karnataka,Furniture,Tables,Desk,2,9807.21,19614.42,14906.96,4707.46,Consumer
+ORD-00831,2024-11-07,CUST-0061,Sample Customer 61,North,Delhi,Furniture,Tables,Desk,4,9728.91,38915.64,29575.89,9339.75,Corporate
+ORD-00832,2024-10-19,CUST-0014,Sample Customer 14,North,Delhi,Office Supplies,Stationery,Notebook,6,219.41,1316.46,671.39,645.07,Corporate
+ORD-00833,2024-05-02,CUST-0078,Sample Customer 78,West,Gujarat,Technology,Accessories,Headphones,4,1938.28,7753.12,4651.87,3101.25,Home Office
+ORD-00834,2023-05-29,CUST-0068,Sample Customer 68,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,6,482.54,2895.24,1650.29,1244.95,Home Office
+ORD-00835,2024-06-26,CUST-0081,Sample Customer 81,East,West Bengal,Furniture,Chairs,Office Chair,4,5786.64,23146.56,15971.13,7175.43,Home Office
+ORD-00836,2024-09-17,CUST-0111,Sample Customer 111,West,Gujarat,Office Supplies,Stationery,Notebook,6,190.27,1141.62,582.23,559.39,Home Office
+ORD-00837,2024-11-01,CUST-0066,Sample Customer 66,South,Tamil Nadu,Furniture,Chairs,Office Chair,3,6543.08,19629.24,13544.18,6085.06,Home Office
+ORD-00838,2024-08-25,CUST-0173,Sample Customer 173,East,Odisha,Office Supplies,Printers,Printer Paper,6,460.35,2762.1,1574.4,1187.7,Consumer
+ORD-00839,2023-03-11,CUST-0003,Sample Customer 3,South,Karnataka,Furniture,Chairs,Office Chair,5,5118.19,25590.95,17657.76,7933.19,Consumer
+ORD-00840,2023-08-13,CUST-0090,Sample Customer 90,East,West Bengal,Office Supplies,Stationery,Notebook,1,210.07,210.07,107.14,102.93,Home Office
+ORD-00841,2023-02-28,CUST-0024,Sample Customer 24,South,Tamil Nadu,Technology,Accessories,Headphones,1,1713.36,1713.36,1028.02,685.34,Home Office
+ORD-00842,2023-05-14,CUST-0155,Sample Customer 155,North,Delhi,Office Supplies,Printers,Printer Paper,1,437.08,437.08,249.14,187.94,Corporate
+ORD-00843,2024-11-07,CUST-0120,Sample Customer 120,North,Delhi,Office Supplies,Printers,Printer Paper,2,462.07,924.14,526.76,397.38,Consumer
+ORD-00844,2023-09-21,CUST-0083,Sample Customer 83,East,Odisha,Furniture,Tables,Desk,6,10088.04,60528.24,46001.46,14526.78,Consumer
+ORD-00845,2023-09-22,CUST-0016,Sample Customer 16,West,Maharashtra,Technology,Phones,Smartphone,4,12564.54,50258.16,36688.46,13569.7,Corporate
+ORD-00846,2024-09-16,CUST-0052,Sample Customer 52,North,Uttar Pradesh,Technology,Phones,Smartphone,4,14868.6,59474.4,43416.31,16058.09,Corporate
+ORD-00847,2023-08-12,CUST-0111,Sample Customer 111,North,Uttar Pradesh,Technology,Phones,Smartphone,2,13157.45,26314.9,19209.88,7105.02,Home Office
+ORD-00848,2023-03-14,CUST-0019,Sample Customer 19,West,Maharashtra,Office Supplies,Printers,Printer Paper,3,439.61,1318.83,751.73,567.1,Home Office
+ORD-00849,2023-01-01,CUST-0164,Sample Customer 164,South,Tamil Nadu,Technology,Phones,Smartphone,4,11629.64,46518.56,33958.55,12560.01,Consumer
+ORD-00850,2024-08-11,CUST-0101,Sample Customer 101,East,Odisha,Technology,Accessories,Headphones,6,1896.95,11381.7,6829.02,4552.68,Consumer
+ORD-00851,2024-07-07,CUST-0018,Sample Customer 18,East,Odisha,Furniture,Tables,Desk,4,9927.83,39711.32,30180.6,9530.72,Consumer
+ORD-00852,2024-01-03,CUST-0138,Sample Customer 138,West,Maharashtra,Office Supplies,Printers,Printer Paper,4,442.29,1769.16,1008.42,760.74,Corporate
+ORD-00853,2023-04-03,CUST-0166,Sample Customer 166,South,Tamil Nadu,Technology,Phones,Smartphone,6,14937.21,89623.26,65424.98,24198.28,Corporate
+ORD-00854,2024-07-21,CUST-0046,Sample Customer 46,South,Karnataka,Furniture,Tables,Desk,3,9398.0,28194.0,21427.44,6766.56,Consumer
+ORD-00855,2024-10-07,CUST-0028,Sample Customer 28,East,West Bengal,Furniture,Chairs,Office Chair,6,5801.22,34807.32,24017.05,10790.27,Home Office
+ORD-00856,2023-05-24,CUST-0049,Sample Customer 49,South,Tamil Nadu,Technology,Phones,Smartphone,6,12757.16,76542.96,55876.36,20666.6,Consumer
+ORD-00857,2023-03-06,CUST-0100,Sample Customer 100,North,Delhi,Office Supplies,Printers,Printer Paper,5,459.85,2299.25,1310.57,988.68,Home Office
+ORD-00858,2023-02-07,CUST-0005,Sample Customer 5,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,226.85,907.4,462.77,444.63,Corporate
+ORD-00859,2024-10-31,CUST-0055,Sample Customer 55,West,Maharashtra,Office Supplies,Printers,Printer Paper,1,484.85,484.85,276.36,208.49,Home Office
+ORD-00860,2023-02-07,CUST-0019,Sample Customer 19,East,West Bengal,Office Supplies,Printers,Printer Paper,5,459.03,2295.15,1308.24,986.91,Home Office
+ORD-00861,2023-02-16,CUST-0159,Sample Customer 159,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,1,494.69,494.69,281.97,212.72,Consumer
+ORD-00862,2023-04-10,CUST-0079,Sample Customer 79,North,Delhi,Technology,Accessories,Headphones,6,1729.11,10374.66,6224.8,4149.86,Corporate
+ORD-00863,2023-08-14,CUST-0158,Sample Customer 158,North,Delhi,Technology,Phones,Smartphone,1,12987.86,12987.86,9481.14,3506.72,Consumer
+ORD-00864,2023-05-04,CUST-0084,Sample Customer 84,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,6320.06,37920.36,26165.05,11755.31,Home Office
+ORD-00865,2023-03-06,CUST-0086,Sample Customer 86,North,Uttar Pradesh,Technology,Accessories,Headphones,1,2054.82,2054.82,1232.89,821.93,Consumer
+ORD-00866,2023-06-18,CUST-0142,Sample Customer 142,South,Karnataka,Furniture,Tables,Desk,2,9528.94,19057.88,14483.99,4573.89,Corporate
+ORD-00867,2024-09-19,CUST-0162,Sample Customer 162,North,Delhi,Technology,Accessories,Headphones,1,2173.54,2173.54,1304.12,869.42,Corporate
+ORD-00868,2023-04-02,CUST-0046,Sample Customer 46,North,Delhi,Furniture,Tables,Desk,1,7666.29,7666.29,5826.38,1839.91,Home Office
+ORD-00869,2023-05-27,CUST-0053,Sample Customer 53,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,4,527.8,2111.2,1203.38,907.82,Home Office
+ORD-00870,2024-12-09,CUST-0157,Sample Customer 157,South,Tamil Nadu,Furniture,Tables,Desk,2,10181.71,20363.42,15476.2,4887.22,Consumer
+ORD-00871,2023-12-23,CUST-0078,Sample Customer 78,North,Uttar Pradesh,Office Supplies,Stationery,Notebook,1,206.59,206.59,105.36,101.23,Corporate
+ORD-00872,2024-09-25,CUST-0025,Sample Customer 25,West,Gujarat,Technology,Accessories,Headphones,1,2290.82,2290.82,1374.49,916.33,Corporate
+ORD-00873,2023-07-18,CUST-0014,Sample Customer 14,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,6,455.3,2731.8,1557.13,1174.67,Consumer
+ORD-00874,2023-02-25,CUST-0012,Sample Customer 12,North,Uttar Pradesh,Furniture,Tables,Desk,2,8080.45,16160.9,12282.28,3878.62,Home Office
+ORD-00875,2024-04-09,CUST-0158,Sample Customer 158,South,Tamil Nadu,Technology,Accessories,Headphones,4,1849.9,7399.6,4439.76,2959.84,Consumer
+ORD-00876,2024-05-11,CUST-0008,Sample Customer 8,West,Gujarat,Office Supplies,Stationery,Notebook,2,178.59,357.18,182.16,175.02,Home Office
+ORD-00877,2023-11-30,CUST-0149,Sample Customer 149,West,Gujarat,Technology,Accessories,Headphones,6,1965.91,11795.46,7077.28,4718.18,Corporate
+ORD-00878,2023-08-31,CUST-0026,Sample Customer 26,North,Uttar Pradesh,Technology,Accessories,Headphones,1,1894.73,1894.73,1136.84,757.89,Home Office
+ORD-00879,2024-05-11,CUST-0150,Sample Customer 150,East,West Bengal,Furniture,Tables,Desk,2,7847.66,15695.32,11928.44,3766.88,Consumer
+ORD-00880,2024-01-18,CUST-0100,Sample Customer 100,East,West Bengal,Technology,Accessories,Headphones,5,1972.01,9860.05,5916.03,3944.02,Consumer
+ORD-00881,2023-12-10,CUST-0052,Sample Customer 52,East,West Bengal,Office Supplies,Printers,Printer Paper,3,570.19,1710.57,975.02,735.55,Consumer
+ORD-00882,2024-04-14,CUST-0120,Sample Customer 120,West,Gujarat,Furniture,Chairs,Office Chair,2,5299.11,10598.22,7312.77,3285.45,Corporate
+ORD-00883,2024-09-18,CUST-0164,Sample Customer 164,North,Uttar Pradesh,Technology,Accessories,Headphones,3,2061.15,6183.45,3710.07,2473.38,Consumer
+ORD-00884,2024-08-28,CUST-0056,Sample Customer 56,North,Delhi,Furniture,Tables,Desk,5,8969.88,44849.4,34085.54,10763.86,Corporate
+ORD-00885,2023-09-11,CUST-0064,Sample Customer 64,East,Odisha,Technology,Phones,Smartphone,6,12718.65,76311.9,55707.69,20604.21,Corporate
+ORD-00886,2024-03-03,CUST-0002,Sample Customer 2,East,West Bengal,Office Supplies,Stationery,Notebook,2,223.7,447.4,228.17,219.23,Consumer
+ORD-00887,2024-02-08,CUST-0136,Sample Customer 136,West,Maharashtra,Office Supplies,Printers,Printer Paper,5,429.18,2145.9,1223.16,922.74,Corporate
+ORD-00888,2024-12-10,CUST-0004,Sample Customer 4,West,Maharashtra,Furniture,Tables,Desk,2,7873.47,15746.94,11967.67,3779.27,Home Office
+ORD-00889,2023-04-03,CUST-0166,Sample Customer 166,East,West Bengal,Technology,Accessories,Headphones,3,1876.54,5629.62,3377.77,2251.85,Consumer
+ORD-00890,2024-08-20,CUST-0147,Sample Customer 147,East,Odisha,Technology,Accessories,Headphones,6,1974.58,11847.48,7108.49,4738.99,Consumer
+ORD-00891,2024-10-03,CUST-0095,Sample Customer 95,East,Odisha,Technology,Accessories,Headphones,6,1942.24,11653.44,6992.06,4661.38,Corporate
+ORD-00892,2023-10-31,CUST-0009,Sample Customer 9,West,Gujarat,Furniture,Tables,Desk,6,8547.9,51287.4,38978.42,12308.98,Corporate
+ORD-00893,2023-02-26,CUST-0086,Sample Customer 86,South,Karnataka,Office Supplies,Printers,Printer Paper,1,517.03,517.03,294.71,222.32,Home Office
+ORD-00894,2023-02-11,CUST-0159,Sample Customer 159,South,Karnataka,Technology,Phones,Smartphone,4,12474.84,49899.36,36426.53,13472.83,Corporate
+ORD-00895,2024-12-27,CUST-0144,Sample Customer 144,South,Karnataka,Office Supplies,Printers,Printer Paper,5,529.67,2648.35,1509.56,1138.79,Consumer
+ORD-00896,2024-08-17,CUST-0123,Sample Customer 123,North,Uttar Pradesh,Technology,Accessories,Headphones,5,1767.25,8836.25,5301.75,3534.5,Home Office
+ORD-00897,2024-11-27,CUST-0129,Sample Customer 129,North,Delhi,Furniture,Chairs,Office Chair,3,6715.16,20145.48,13900.38,6245.1,Corporate
+ORD-00898,2024-05-28,CUST-0125,Sample Customer 125,South,Karnataka,Technology,Phones,Smartphone,3,12395.43,37186.29,27145.99,10040.3,Home Office
+ORD-00899,2023-10-27,CUST-0137,Sample Customer 137,West,Maharashtra,Office Supplies,Printers,Printer Paper,5,525.69,2628.45,1498.22,1130.23,Corporate
+ORD-00900,2023-07-03,CUST-0101,Sample Customer 101,South,Karnataka,Technology,Accessories,Headphones,4,1751.51,7006.04,4203.62,2802.42,Corporate
+ORD-00901,2024-05-23,CUST-0038,Sample Customer 38,West,Gujarat,Technology,Accessories,Headphones,3,1766.33,5298.99,3179.39,2119.6,Consumer
+ORD-00902,2023-05-16,CUST-0139,Sample Customer 139,North,Delhi,Furniture,Chairs,Office Chair,4,6844.09,27376.36,18889.69,8486.67,Corporate
+ORD-00903,2023-07-13,CUST-0075,Sample Customer 75,South,Tamil Nadu,Furniture,Tables,Desk,6,9389.6,56337.6,42816.58,13521.02,Consumer
+ORD-00904,2023-12-18,CUST-0149,Sample Customer 149,West,Gujarat,Office Supplies,Stationery,Notebook,6,189.2,1135.2,578.95,556.25,Home Office
+ORD-00905,2024-03-31,CUST-0141,Sample Customer 141,South,Tamil Nadu,Office Supplies,Stationery,Notebook,6,210.75,1264.5,644.89,619.61,Corporate
+ORD-00906,2024-05-10,CUST-0059,Sample Customer 59,South,Karnataka,Furniture,Chairs,Office Chair,2,6519.6,13039.2,8997.05,4042.15,Corporate
+ORD-00907,2024-09-25,CUST-0043,Sample Customer 43,South,Karnataka,Technology,Accessories,Headphones,3,1869.69,5609.07,3365.44,2243.63,Consumer
+ORD-00908,2023-06-07,CUST-0171,Sample Customer 171,South,Karnataka,Technology,Accessories,Headphones,6,2114.66,12687.96,7612.78,5075.18,Consumer
+ORD-00909,2023-09-24,CUST-0113,Sample Customer 113,North,Delhi,Technology,Phones,Smartphone,3,13289.63,39868.89,29104.29,10764.6,Corporate
+ORD-00910,2023-12-19,CUST-0082,Sample Customer 82,North,Delhi,Office Supplies,Stationery,Notebook,6,171.22,1027.32,523.93,503.39,Consumer
+ORD-00911,2023-01-26,CUST-0032,Sample Customer 32,South,Tamil Nadu,Office Supplies,Stationery,Notebook,2,201.01,402.02,205.03,196.99,Corporate
+ORD-00912,2024-06-03,CUST-0140,Sample Customer 140,East,West Bengal,Furniture,Tables,Desk,3,8070.45,24211.35,18400.63,5810.72,Corporate
+ORD-00913,2024-03-28,CUST-0145,Sample Customer 145,South,Tamil Nadu,Furniture,Chairs,Office Chair,5,6299.35,31496.75,21732.76,9763.99,Corporate
+ORD-00914,2023-11-12,CUST-0030,Sample Customer 30,West,Maharashtra,Technology,Phones,Smartphone,2,13693.18,27386.36,19992.04,7394.32,Consumer
+ORD-00915,2024-09-14,CUST-0015,Sample Customer 15,East,West Bengal,Furniture,Tables,Desk,3,7898.82,23696.46,18009.31,5687.15,Home Office
+ORD-00916,2024-04-01,CUST-0138,Sample Customer 138,North,Delhi,Furniture,Chairs,Office Chair,2,5139.73,10279.46,7092.83,3186.63,Home Office
+ORD-00917,2024-06-07,CUST-0155,Sample Customer 155,West,Maharashtra,Technology,Accessories,Headphones,4,1889.71,7558.84,4535.3,3023.54,Consumer
+ORD-00918,2024-01-31,CUST-0095,Sample Customer 95,South,Tamil Nadu,Technology,Accessories,Headphones,6,2211.18,13267.08,7960.25,5306.83,Corporate
+ORD-00919,2024-07-28,CUST-0115,Sample Customer 115,West,Maharashtra,Furniture,Chairs,Office Chair,3,5653.61,16960.83,11702.97,5257.86,Consumer
+ORD-00920,2023-06-17,CUST-0074,Sample Customer 74,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,4,544.46,2177.84,1241.37,936.47,Home Office
+ORD-00921,2023-08-01,CUST-0037,Sample Customer 37,East,Odisha,Technology,Accessories,Headphones,5,2057.73,10288.65,6173.19,4115.46,Corporate
+ORD-00922,2023-01-07,CUST-0023,Sample Customer 23,East,Odisha,Technology,Phones,Smartphone,5,13997.77,69988.85,51091.86,18896.99,Corporate
+ORD-00923,2023-05-21,CUST-0146,Sample Customer 146,South,Tamil Nadu,Technology,Accessories,Headphones,5,1976.28,9881.4,5928.84,3952.56,Consumer
+ORD-00924,2024-08-22,CUST-0078,Sample Customer 78,North,Uttar Pradesh,Furniture,Chairs,Office Chair,5,5982.06,29910.3,20638.11,9272.19,Corporate
+ORD-00925,2023-09-26,CUST-0040,Sample Customer 40,East,Odisha,Technology,Accessories,Headphones,1,2173.64,2173.64,1304.18,869.46,Corporate
+ORD-00926,2023-07-03,CUST-0107,Sample Customer 107,East,West Bengal,Office Supplies,Printers,Printer Paper,6,557.79,3346.74,1907.64,1439.1,Corporate
+ORD-00927,2024-09-05,CUST-0018,Sample Customer 18,North,Delhi,Technology,Phones,Smartphone,3,12971.9,38915.7,28408.46,10507.24,Home Office
+ORD-00928,2024-12-03,CUST-0161,Sample Customer 161,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,220.99,883.96,450.82,433.14,Corporate
+ORD-00929,2023-06-16,CUST-0067,Sample Customer 67,West,Maharashtra,Office Supplies,Stationery,Notebook,6,203.49,1220.94,622.68,598.26,Home Office
+ORD-00930,2024-01-01,CUST-0035,Sample Customer 35,West,Gujarat,Furniture,Chairs,Office Chair,4,6679.86,26719.44,18436.41,8283.03,Consumer
+ORD-00931,2023-02-19,CUST-0092,Sample Customer 92,West,Maharashtra,Furniture,Chairs,Office Chair,4,6244.2,24976.8,17233.99,7742.81,Corporate
+ORD-00932,2023-04-07,CUST-0047,Sample Customer 47,South,Karnataka,Office Supplies,Stationery,Notebook,2,214.91,429.82,219.21,210.61,Home Office
+ORD-00933,2024-12-02,CUST-0070,Sample Customer 70,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,6538.69,39232.14,27070.18,12161.96,Home Office
+ORD-00934,2023-01-14,CUST-0037,Sample Customer 37,South,Karnataka,Office Supplies,Stationery,Notebook,5,190.14,950.7,484.86,465.84,Consumer
+ORD-00935,2023-04-15,CUST-0042,Sample Customer 42,South,Tamil Nadu,Furniture,Tables,Desk,4,8567.89,34271.56,26046.39,8225.17,Consumer
+ORD-00936,2024-06-28,CUST-0135,Sample Customer 135,North,Delhi,Technology,Accessories,Headphones,5,2067.02,10335.1,6201.06,4134.04,Home Office
+ORD-00937,2023-01-18,CUST-0034,Sample Customer 34,West,Maharashtra,Furniture,Tables,Desk,1,7963.84,7963.84,6052.52,1911.32,Corporate
+ORD-00938,2024-09-03,CUST-0114,Sample Customer 114,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,3,444.96,1334.88,760.88,574.0,Home Office
+ORD-00939,2023-08-16,CUST-0031,Sample Customer 31,South,Karnataka,Office Supplies,Printers,Printer Paper,3,428.46,1285.38,732.67,552.71,Consumer
+ORD-00940,2024-03-11,CUST-0021,Sample Customer 21,North,Delhi,Furniture,Chairs,Office Chair,2,5476.8,10953.6,7557.98,3395.62,Home Office
+ORD-00941,2023-07-21,CUST-0011,Sample Customer 11,West,Gujarat,Technology,Phones,Smartphone,4,14002.53,56010.12,40887.39,15122.73,Consumer
+ORD-00942,2023-03-09,CUST-0012,Sample Customer 12,West,Gujarat,Furniture,Tables,Desk,1,10101.91,10101.91,7677.45,2424.46,Corporate
+ORD-00943,2023-07-09,CUST-0052,Sample Customer 52,West,Gujarat,Technology,Phones,Smartphone,5,11850.15,59250.75,43253.05,15997.7,Home Office
+ORD-00944,2024-08-16,CUST-0072,Sample Customer 72,South,Karnataka,Technology,Phones,Smartphone,2,14347.76,28695.52,20947.73,7747.79,Corporate
+ORD-00945,2024-08-06,CUST-0130,Sample Customer 130,South,Karnataka,Office Supplies,Stationery,Notebook,6,205.74,1234.44,629.56,604.88,Consumer
+ORD-00946,2023-06-25,CUST-0073,Sample Customer 73,West,Gujarat,Office Supplies,Stationery,Notebook,2,211.88,423.76,216.12,207.64,Home Office
+ORD-00947,2024-01-11,CUST-0122,Sample Customer 122,West,Gujarat,Technology,Accessories,Headphones,5,2209.67,11048.35,6629.01,4419.34,Home Office
+ORD-00948,2024-01-24,CUST-0091,Sample Customer 91,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,1,451.22,451.22,257.2,194.02,Corporate
+ORD-00949,2023-05-07,CUST-0081,Sample Customer 81,North,Delhi,Furniture,Tables,Desk,1,9704.73,9704.73,7375.59,2329.14,Corporate
+ORD-00950,2023-02-11,CUST-0143,Sample Customer 143,West,Gujarat,Furniture,Tables,Desk,3,9551.71,28655.13,21777.9,6877.23,Consumer
+ORD-00951,2023-11-16,CUST-0154,Sample Customer 154,South,Tamil Nadu,Technology,Phones,Smartphone,4,12155.15,48620.6,35493.04,13127.56,Home Office
+ORD-00952,2023-07-13,CUST-0110,Sample Customer 110,East,West Bengal,Office Supplies,Stationery,Notebook,4,186.5,746.0,380.46,365.54,Consumer
+ORD-00953,2024-11-19,CUST-0126,Sample Customer 126,East,Odisha,Technology,Accessories,Headphones,1,2298.08,2298.08,1378.85,919.23,Consumer
+ORD-00954,2023-05-27,CUST-0031,Sample Customer 31,East,Odisha,Office Supplies,Stationery,Notebook,6,209.54,1257.24,641.19,616.05,Corporate
+ORD-00955,2023-12-13,CUST-0051,Sample Customer 51,East,West Bengal,Office Supplies,Printers,Printer Paper,2,433.84,867.68,494.58,373.1,Consumer
+ORD-00956,2024-12-31,CUST-0072,Sample Customer 72,East,West Bengal,Technology,Accessories,Headphones,4,2134.05,8536.2,5121.72,3414.48,Home Office
+ORD-00957,2024-05-11,CUST-0104,Sample Customer 104,South,Tamil Nadu,Furniture,Chairs,Office Chair,4,6298.97,25195.88,17385.16,7810.72,Home Office
+ORD-00958,2024-05-24,CUST-0126,Sample Customer 126,South,Karnataka,Furniture,Tables,Desk,1,7979.03,7979.03,6064.06,1914.97,Consumer
+ORD-00959,2024-05-25,CUST-0018,Sample Customer 18,North,Delhi,Technology,Phones,Smartphone,6,11255.26,67531.56,49298.04,18233.52,Home Office
+ORD-00960,2023-11-07,CUST-0040,Sample Customer 40,West,Gujarat,Furniture,Tables,Desk,5,9482.8,47414.0,36034.64,11379.36,Home Office
+ORD-00961,2023-07-26,CUST-0120,Sample Customer 120,West,Gujarat,Office Supplies,Printers,Printer Paper,5,539.06,2695.3,1536.32,1158.98,Corporate
+ORD-00962,2024-07-13,CUST-0139,Sample Customer 139,East,Odisha,Office Supplies,Stationery,Notebook,3,201.53,604.59,308.34,296.25,Consumer
+ORD-00963,2024-03-29,CUST-0097,Sample Customer 97,West,Maharashtra,Technology,Phones,Smartphone,4,12804.47,51217.88,37389.05,13828.83,Corporate
+ORD-00964,2024-12-24,CUST-0078,Sample Customer 78,West,Gujarat,Technology,Accessories,Headphones,5,2094.6,10473.0,6283.8,4189.2,Consumer
+ORD-00965,2023-04-23,CUST-0125,Sample Customer 125,East,Odisha,Technology,Accessories,Headphones,3,2128.37,6385.11,3831.07,2554.04,Home Office
+ORD-00966,2023-02-27,CUST-0130,Sample Customer 130,East,Odisha,Furniture,Tables,Desk,5,9955.64,49778.2,37831.43,11946.77,Corporate
+ORD-00967,2023-10-19,CUST-0091,Sample Customer 91,South,Tamil Nadu,Office Supplies,Stationery,Notebook,4,205.98,823.92,420.2,403.72,Corporate
+ORD-00968,2023-12-24,CUST-0094,Sample Customer 94,West,Gujarat,Office Supplies,Stationery,Notebook,1,176.8,176.8,90.17,86.63,Home Office
+ORD-00969,2024-02-26,CUST-0092,Sample Customer 92,West,Maharashtra,Furniture,Tables,Desk,1,8805.02,8805.02,6691.82,2113.2,Corporate
+ORD-00970,2023-03-28,CUST-0152,Sample Customer 152,West,Gujarat,Technology,Accessories,Headphones,2,2087.81,4175.62,2505.37,1670.25,Home Office
+ORD-00971,2023-11-30,CUST-0138,Sample Customer 138,West,Maharashtra,Technology,Phones,Smartphone,3,11711.24,35133.72,25647.62,9486.1,Consumer
+ORD-00972,2023-01-21,CUST-0069,Sample Customer 69,East,Odisha,Office Supplies,Stationery,Notebook,5,222.96,1114.8,568.55,546.25,Home Office
+ORD-00973,2024-08-09,CUST-0083,Sample Customer 83,East,West Bengal,Furniture,Chairs,Office Chair,4,6125.62,24502.48,16906.71,7595.77,Consumer
+ORD-00974,2024-05-29,CUST-0128,Sample Customer 128,East,West Bengal,Office Supplies,Printers,Printer Paper,6,454.97,2729.82,1556.0,1173.82,Home Office
+ORD-00975,2023-07-26,CUST-0112,Sample Customer 112,South,Karnataka,Office Supplies,Stationery,Notebook,3,190.84,572.52,291.99,280.53,Corporate
+ORD-00976,2024-02-16,CUST-0147,Sample Customer 147,West,Gujarat,Furniture,Chairs,Office Chair,3,5184.69,15554.07,10732.31,4821.76,Consumer
+ORD-00977,2024-06-27,CUST-0146,Sample Customer 146,West,Gujarat,Office Supplies,Stationery,Notebook,3,185.47,556.41,283.77,272.64,Corporate
+ORD-00978,2024-05-31,CUST-0078,Sample Customer 78,East,West Bengal,Furniture,Chairs,Office Chair,1,6271.72,6271.72,4327.49,1944.23,Corporate
+ORD-00979,2024-06-11,CUST-0160,Sample Customer 160,East,Odisha,Technology,Accessories,Headphones,4,1940.41,7761.64,4656.98,3104.66,Corporate
+ORD-00980,2024-08-13,CUST-0048,Sample Customer 48,North,Delhi,Office Supplies,Printers,Printer Paper,6,501.43,3008.58,1714.89,1293.69,Corporate
+ORD-00981,2024-03-20,CUST-0158,Sample Customer 158,North,Uttar Pradesh,Furniture,Chairs,Office Chair,6,6057.88,36347.28,25079.62,11267.66,Home Office
+ORD-00982,2024-12-02,CUST-0039,Sample Customer 39,West,Gujarat,Furniture,Chairs,Office Chair,4,5365.04,21460.16,14807.51,6652.65,Corporate
+ORD-00983,2023-10-01,CUST-0106,Sample Customer 106,East,Odisha,Furniture,Chairs,Office Chair,1,6240.03,6240.03,4305.62,1934.41,Corporate
+ORD-00984,2023-04-27,CUST-0062,Sample Customer 62,North,Uttar Pradesh,Office Supplies,Printers,Printer Paper,5,459.5,2297.5,1309.57,987.93,Consumer
+ORD-00985,2024-03-22,CUST-0144,Sample Customer 144,North,Delhi,Technology,Accessories,Headphones,3,1977.51,5932.53,3559.52,2373.01,Corporate
+ORD-00986,2023-10-12,CUST-0067,Sample Customer 67,West,Gujarat,Technology,Accessories,Headphones,3,1780.97,5342.91,3205.75,2137.16,Home Office
+ORD-00987,2023-03-27,CUST-0015,Sample Customer 15,North,Delhi,Office Supplies,Printers,Printer Paper,4,541.25,2165.0,1234.05,930.95,Corporate
+ORD-00988,2024-02-11,CUST-0024,Sample Customer 24,South,Karnataka,Furniture,Tables,Desk,3,9462.46,28387.38,21574.41,6812.97,Home Office
+ORD-00989,2024-06-18,CUST-0031,Sample Customer 31,North,Delhi,Technology,Phones,Smartphone,5,13913.4,69567.0,50783.91,18783.09,Home Office
+ORD-00990,2023-12-04,CUST-0081,Sample Customer 81,South,Tamil Nadu,Technology,Phones,Smartphone,2,13388.27,26776.54,19546.87,7229.67,Home Office
+ORD-00991,2023-08-08,CUST-0045,Sample Customer 45,East,West Bengal,Furniture,Tables,Desk,2,8038.66,16077.32,12218.76,3858.56,Corporate
+ORD-00992,2024-01-19,CUST-0137,Sample Customer 137,East,Odisha,Furniture,Chairs,Office Chair,5,5199.8,25999.0,17939.31,8059.69,Home Office
+ORD-00993,2023-10-12,CUST-0064,Sample Customer 64,West,Maharashtra,Office Supplies,Stationery,Notebook,4,197.5,790.0,402.9,387.1,Consumer
+ORD-00994,2024-10-22,CUST-0006,Sample Customer 6,South,Tamil Nadu,Office Supplies,Printers,Printer Paper,3,547.11,1641.33,935.56,705.77,Home Office
+ORD-00995,2024-01-29,CUST-0142,Sample Customer 142,West,Gujarat,Office Supplies,Printers,Printer Paper,6,460.03,2760.18,1573.3,1186.88,Corporate
+ORD-00996,2023-01-09,CUST-0100,Sample Customer 100,South,Karnataka,Office Supplies,Stationery,Notebook,2,220.35,440.7,224.76,215.94,Corporate
+ORD-00997,2024-03-25,CUST-0042,Sample Customer 42,South,Tamil Nadu,Technology,Phones,Smartphone,2,12209.01,24418.02,17825.15,6592.87,Home Office
+ORD-00998,2024-04-27,CUST-0126,Sample Customer 126,South,Tamil Nadu,Technology,Phones,Smartphone,3,14428.02,43284.06,31597.36,11686.7,Home Office
+ORD-00999,2023-06-14,CUST-0026,Sample Customer 26,East,Odisha,Office Supplies,Printers,Printer Paper,4,555.4,2221.6,1266.31,955.29,Home Office
+ORD-01000,2023-12-01,CUST-0141,Sample Customer 141,South,Karnataka,Furniture,Chairs,Office Chair,4,6182.78,24731.12,17064.47,7666.65,Corporate
