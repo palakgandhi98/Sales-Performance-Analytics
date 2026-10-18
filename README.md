@@ -22,7 +22,7 @@ Python, SQL, Excel, and Power BI.
 - Spreadsheet Analysis: Microsoft Excel
 
 📁 Project Structure
-
+```bash
 Sales-Performance-Analytics/
 ├── data/
 ├── images/
@@ -31,6 +31,7 @@ Sales-Performance-Analytics/
 ├── reports/
 ├── README.md
 └── requirements.txt
+```
 
 📈 Dashboard Preview
 
