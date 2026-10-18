@@ -93,8 +93,8 @@ In Progress — data analysis, SQL queries, and dashboard development are being 
 
 👩‍💻 Author
 Palak Gandhi
-GitHub: palakgandhi98
-LinkedIn: palakgandhi98
+GitHub: @palakgandhi98
+LinkedIn: <https://www.linkedIn.com/in/palakgandhi98>
 
 ⚠️ Dataset Disclaimer
 This project uses synthetic sample sales data for educational and portfolio purposes. Dashboard figures and business findings will be reported only after they have been calculated and validated against the dataset.
