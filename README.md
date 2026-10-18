@@ -5,12 +5,53 @@
 An end-to-end data analytics portfolio project using
 Python, SQL, Excel, and Power BI.
 
-## Project Overview
-- Sales and profit analysis
-- Exploratory data analysis
-- KPI reporting
-- Interactive dashboard design
-- Business insights and recommendations
+🎯 Project Objectives
 
-## Tools
-Python | Pandas | SQL | Excel | Power BI
+- Analyze sales, revenue, and profit trends.
+- Identify top-performing products and regions.
+- Perform exploratory data analysis (EDA).
+- Calculate key business performance indicators (KPIs).
+- Create an interactive Power BI dashboard.
+- Communicate findings through data visualizations and reports.
+
+🛠️ Tech Stack
+
+- Python: Pandas, NumPy, Matplotlib
+- SQL: MySQL, aggregations, joins, KPI queries
+- Visualization: Power BI
+- Spreadsheet Analysis: Microsoft Excel
+
+📁 Project Structure
+
+Sales-Performance-Analytics/
+├── data/
+├── images/
+├── notebooks/
+├── sql/
+├── reports/
+├── README.md
+└── requirements.txt
+
+📈 Dashboard Preview
+
+The dashboard preview will be added here after uploading the image.
+
+🔍 Analysis Areas
+
+- Monthly sales and profit trends
+- Product and category performance
+- Regional sales comparison
+- Customer purchasing patterns
+- Business KPIs and recommendations
+
+📌 Project Status
+
+In Progress — dataset preparation, analysis, visualizations, and dashboard development.
+
+👩‍💻 Author
+
+Palak Gandhi
+
+"GitHub Profile" (https://github.com/palakgandhi98)
+
+Portfolio project using sample sales data. Findings will be updated after completing the analysis.
