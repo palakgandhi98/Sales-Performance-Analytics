@@ -1,0 +1,61 @@
+-- Power BI DAX Measures
+-- Table name assumed: sales
+-- Create these measures from Modeling > New measure.
+-- The sample dataset has 1,000 rows; results must be calculated in Power BI.
+
+Total Sales = SUM(sales[Sales])
+
+Total Profit = SUM(sales[Profit])
+
+Total Cost = SUM(sales[Cost])
+
+Total Orders = DISTINCTCOUNT(sales[Order_ID])
+
+Total Customers = DISTINCTCOUNT(sales[Customer_ID])
+
+Units Sold = SUM(sales[Quantity])
+
+Average Order Value =
+DIVIDE(
+    [Total Sales],
+    [Total Orders],
+    0
+)
+
+Profit Margin % =
+DIVIDE(
+    [Total Profit],
+    [Total Sales],
+    0
+)
+
+Average Selling Price =
+DIVIDE(
+    [Total Sales],
+    [Units Sold],
+    0
+)
+
+Sales per Customer =
+DIVIDE(
+    [Total Sales],
+    [Total Customers],
+    0
+)
+
+-- Optional: use only after creating and marking a proper Date table.
+Sales Previous Year =
+CALCULATE(
+    [Total Sales],
+    SAMEPERIODLASTYEAR('Date'[Date])
+)
+
+Sales YoY Change =
+[Total Sales] - [Sales Previous Year]
+
+Sales YoY Growth % =
+DIVIDE(
+    [Sales YoY Change],
+    [Sales Previous Year],
+    0
+)
