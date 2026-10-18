@@ -25,12 +25,10 @@ Python, SQL, Excel, and Power BI.
 ```bash
 Sales-Performance-Analytics/
 ├── data/
+│   └── sales_data.csv
 ├── images/
-├── notebooks/
-├── sql/
-├── reports/
-├── README.md
-└── requirements.txt
+│   └── dashboard_preview.png
+└── README.md
 ```
 
 📈 Dashboard Preview
